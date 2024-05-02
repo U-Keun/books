@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "토비의 스프링 3.1/Vol. 1/2장/UserDaoTest 개선.md",
+                "file": "Database Internals/Part 1/Chapter 1/Buffering, Immutability, and Ordering.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5
+    "width": 271.5,
+    "collapsed": true
   },
   "right": {
     "id": "2545cf5b8a19dcc4",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "토비의 스프링 3.1/Vol. 1/2장/UserDaoTest 개선.md",
+                "file": "Database Internals/Part 1/Chapter 1/Buffering, Immutability, and Ordering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "토비의 스프링 3.1/Vol. 1/2장/UserDaoTest 개선.md",
+                "file": "Database Internals/Part 1/Chapter 1/Buffering, Immutability, and Ordering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "토비의 스프링 3.1/Vol. 1/2장/UserDaoTest 개선.md"
+                "file": "Database Internals/Part 1/Chapter 1/Buffering, Immutability, and Ordering.md"
               }
             }
           }
@@ -133,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,8 +149,8 @@
   },
   "active": "6f027b9ccb2d13c5",
   "lastOpenFiles": [
-    "토비의 스프링 3.1/Vol. 1/2장/UserDaoTest 다시 보기.md",
     "토비의 스프링 3.1/Vol. 1/2장/UserDaoTest 개선.md",
+    "토비의 스프링 3.1/Vol. 1/2장/UserDaoTest 다시 보기.md",
     "README.md",
     "만들면서 배우는 클린 아키텍처/04 유스케이스 구현하기.md",
     "만들면서 배우는 클린 아키텍처/03 코드 구성하기.md",
