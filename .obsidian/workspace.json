@@ -146,8 +146,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "972a6e56601c0748",
+  "active": "07f649e5ace71030",
   "lastOpenFiles": [
+    "README.md",
     "Effective Java/4장. 클래스와 인터페이스/아이템 17.md",
     "Effective Java/4장. 클래스와 인터페이스/아이템 15.md",
     "Effective Java/3장. 모든 객체의 공통 메서드/아이템 12.md",
@@ -182,7 +183,6 @@
     "Database Internals/Part 1/Chapter 1/DBMS Architecture.md",
     "Database Internals/Part 1/Chapter 1/Column- Versus Row-Oriented DBMS.md",
     "Database Internals/Part 1/Chapter 1/Buffering, Immutability, and Ordering.md",
-    "Database Internals/Part 1/Storage Engines.md",
-    "Clean Code/9장. 단위 테스트.md"
+    "Database Internals/Part 1/Storage Engines.md"
   ]
 }
