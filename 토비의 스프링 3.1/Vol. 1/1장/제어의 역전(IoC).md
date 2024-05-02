@@ -22,6 +22,11 @@ public class UserDaoTest {
 ```
 ###### 설계도로서의 팩토리
 `UserDao`와 `ConnectionMaker`는 각각 어플리케이션의 핵심적인 데이터 로직과 기술 로직을 담당하고 있고, `DaoFactory`는 이런 어플리케이션의 오브젝트들을 구성하고 그 관계를 정의하는 책임을 맡고 있다. 여기서 `DaoFactory`는 컴포넌트의 의존관계에 대한 설계도와 같은 역할을 한다. 
+
+<p align="center">
+	<img width="450" src="../../../images/스크린샷 2024-04-08 오전 3.00.54.png">
+</p>
+
 ![[스크린샷 2024-04-08 오전 3.00.54.png|center|450]]
 ##### 1.4.2 오브젝트 팩토리의 활용
 다른 DAO(`AccountDao`, `MessageDao`)가 추가되고, 다른 DAO의 생성 기능이 `DaoFactory`에 추가되는 상황을 생각해보자.

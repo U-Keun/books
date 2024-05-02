@@ -112,6 +112,11 @@ public class UserDaoTest {
 `UserDaoTest`는 `UserDao`와 `ConnectionMaker` 구현 클래스와의 런타임 오브젝트 의존 관계를 설정하는 책임을 담당해야 한다. 그래서 특정 `ConnectionMaker` 구현 클래스의 오브젝트를 만들고, `UserDao` 생성자 매개변수에 넣어 두 개의 오브젝트를 연결해준다.
 
 이제 `UserDao`의 코드는 전혀 변경하지 않고 DB 연결 기능을 확장해서 사용할 수 있게 되었다!
+
+<p align="center">
+	<img width="450" src="../../../images/스크린샷 2024-04-04 오후 5.32.21.png">
+</p>
+
 ![[스크린샷 2024-04-04 오후 5.32.21.png|center|450]]
 ##### 1.3.4 원칙과 패턴
 ###### 개방-폐쇄 원칙

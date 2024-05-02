@@ -2,10 +2,21 @@
 IoC가 너무 포괄적인 개념이라서 **Spring**을 IoC 컨테이너라고만 해서는 **Spring**이 제공하는 기능의 특징을 명확하게 설명하지 못하는 부분이 있다. 그래서 *의존관계 주입*[^Dependency Injection]이라는, 좀 더 의도가 명확히 드러나는 이름을 사용하기 시작했다. **Spring**에서  IoC 기능의 대표적인 동작원리는 주로 의존관계 주입이다. 
 ##### 1.7.2 런타임 의존관계 설정
 ###### 의존관계
-두 개의 클래스 또는 모듈이 의존 관계에 있다고 말할 때는 항상 방향성을 부여해줘야 한다. UML 모델[^1]에서는 두 클래스의 *의존관계*[^dependency relationship]를 다음과 같이 점선으로 된 화살표로 표현한다. 아래의 그림은 A가 B에 의존하고 있음을 나타낸다. ![[스크린샷 2024-04-15 오전 2.05.42.png|center|400]]
+두 개의 클래스 또는 모듈이 의존 관계에 있다고 말할 때는 항상 방향성을 부여해줘야 한다. UML 모델[^1]에서는 두 클래스의 *의존관계*[^dependency relationship]를 다음과 같이 점선으로 된 화살표로 표현한다. 아래의 그림은 A가 B에 의존하고 있음을 나타낸다. 
+
+<p align="center">
+	<img width="400" src="../../../images/스크린샷 2024-04-15 오전 2.05.42.png">
+</p>
+
+![[스크린샷 2024-04-15 오전 2.05.42.png|center|400]]
 '의존한다'는 것은 B가 변하면 그것이 A에 영향을 미친다는 뜻이다. B의 기능이 추가되거나 변경되거나, 형식이 바뀌거나 하면 그 영향이 A로 전달된다는 것이다. 대표적인 예는 A가 B를 사용하는 경우, 조금 더 구체적으로는 A에서 B에 정의된 메서드를 호출해서 사용하는 경우이다. 이럴 때는 '사용에 대한 의존관계'가 있다고 말할 수 있다. 만약 B에 새로운 메서드가 추가되거나 기존 메서드의 형식이 바뀌거나, 또는 기능이 내부적으로 변경되면 A도 그에 따라 수정되거나 추가돼야 할 것이다.
 ###### `UserDao`의 의존관계
 `UserDao`는 `ConnectionMaker`에 의존하고 있는 형태였다. 그러므로 `ConnectionMaker` 인터페이스가 변한다면 그 영향을 `UserDao`가 직접적으로 받는다. 하지만 `ConnectionMaker` 인터페이스를 구현한 클래스인 `DConnectionMaker` 등이 다른 것으로 바뀌거나 그 내부에서 사용하는 메서드에 변화가 생겨도 `UserDao`가 직접적으로 의존하고 있지 않기 때문에 `UserDao`에 영향을 주지 않는다. 이렇게 인터페이스에 대해서만 의존관계를 만들어두면 인터페이스 구현 클래스와의 관계는 느슨해지면서 변화에 영향을 덜 받는 상태가 되는데, 이것을 '결합도가 낮다'고 표현한다. 
+
+<p align="center">
+	<img width="300" src="../../../images/스크린샷 2024-04-15 오전 2.17.45.png">
+</p>
+
 ![[스크린샷 2024-04-15 오전 2.17.45.png|center|300]]
 
 그런데 모델이나 코드에서 클래스와 인터페이스를 통해 드러나는 의존관계가 아닌, 런타임 시에 오브젝트 사이에서 만들어지는 의존관계도 있다. 이것을 *런타임 의존관계* 또는 *오브젝트 의존관계*라고 한다.
@@ -115,6 +126,11 @@ public class CountingConnectionMaker implements ConnectionMaker {
 `CountingConnectionMaker` 클래스는 `ConnectionMaker` 인터페이스를 구현했지만 내부에서 직접 DB 커넥션을 만들지 않고, DAO가 DB 커넥션을 가져올 때마다 호출하는 `makeConnection()`에서 DB 연결횟수 카운터를 증가시킨다. `CountingConnectionMaker`는 자신의 관심사인 DB 연결횟수 카운팅 작업을 마치면 실제 DB 커넥션을 만들어주는 `realConnectionMaker`에 저장된 `ConnectionMaker` 타입 오브젝트의 `makeConnection()`을 호출해서 그 결과를 DAO에게 돌려준다. 그리고 `realConnectionMaker` 또한 *DI*를 받는 것이다.
 
 `UserDao`는 `ConnectionMaker` 인터페이스에만 의존하고 있기 때문에, `CountingConnectionMaker` 오브젝트를 *DI*하는 것으로 설정을 바꾸면 `UserDao`가 DB 커넥션을 가져오려고 할 때마다 `CountingConnectionMaker`의 `makeConnection()` 메서드가 실행되고 카운터는 하나씩 증가할 것이다.
+
+<p align="center">
+	<img width="450" src="../../../images/스크린샷 2024-04-20 오후 5.23.57.png">
+</p>
+
 ![[스크린샷 2024-04-20 오후 5.23.57.png|center|450]]
 
 새로운 의존관계를 컨테이너가 사용할 설정정보를 이용해 만들어보자.
