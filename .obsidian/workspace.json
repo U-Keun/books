@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "토비의 스프링 3.1/Vol. 1/2장/UserDaoTest 다시 보기.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "토비의 스프링 3.1/Vol. 1/2장/UserDaoTest 다시 보기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "토비의 스프링 3.1/Vol. 1/2장/UserDaoTest 다시 보기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "토비의 스프링 3.1/Vol. 1/2장/UserDaoTest 다시 보기.md"
+                "file": "무제 파일.md"
               }
             }
           }
@@ -146,10 +144,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e85654c7ea9c5750",
+  "active": "07f649e5ace71030",
   "lastOpenFiles": [
-    "Effective Java/5장. 제네릭/아이템 28.md",
     "README.md",
+    "무제 파일.md",
+    "토비의 스프링 3.1/Vol. 1/2장/UserDaoTest 다시 보기.md",
+    "토비의 스프링 3.1/Vol. 1/2장/UserDaoTest 개선.md",
+    "토비의 스프링 3.1/Vol. 1/2장/학습 테스트로 배우는 스프링.md",
+    "토비의 스프링 3.1/Vol. 1/2장/테스트.md",
+    "토비의 스프링 3.1/Vol. 1/2장/개발자를 위한 테스팅 프레임워크 JUnit.md",
+    "토비의 스프링 3.1/Vol. 1/2장/스프링 테스트 적용.md",
+    "Effective Java/5장. 제네릭/아이템 28.md",
     "Effective Java/4장. 클래스와 인터페이스/아이템 17.md",
     "Effective Java/4장. 클래스와 인터페이스/아이템 15.md",
     "Effective Java/3장. 모든 객체의 공통 메서드/아이템 12.md",
@@ -176,13 +181,6 @@
     "Effective Java/2장. 객체 생성과 파괴",
     "Effective Java/12장. 직렬화",
     "Effective Java/11장. 동시성",
-    "Database Internals/Part 1/Chapter2/B-Tree Basics.md",
-    "Database Internals/Part 1/Chapter 1/Memory- Versus Disk-Based DBMS.md",
-    "Database Internals/Part 1/Chapter 1/Introduction and Overview.md",
-    "Database Internals/Part 1/Chapter 1/Data Files and Index Files.md",
-    "Database Internals/Part 1/Chapter 1/DBMS Architecture.md",
-    "Database Internals/Part 1/Chapter 1/Column- Versus Row-Oriented DBMS.md",
-    "Database Internals/Part 1/Chapter 1/Buffering, Immutability, and Ordering.md",
-    "Database Internals/Part 1/Storage Engines.md"
+    "Database Internals/Part 1/Chapter2/B-Tree Basics.md"
   ]
 }
