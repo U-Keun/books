@@ -15,5 +15,6 @@ if (!user.getName().equals(user2.getName())) {
 }
 ```
 
+테스트가 실패하는 경우에 대해서 `name`과 `password` 중 어떤 것 때문에 실패했는지도 확인할 수 있도록 출력 메시지를 작성했다. 
 
 #TobySpring #Spring 
