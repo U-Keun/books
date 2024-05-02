@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "토비의 스프링 3.1/Vol. 1/1장/DAO의 분리.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363.5
+    "width": 311.5
   },
   "right": {
     "id": "2545cf5b8a19dcc4",
