@@ -133,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -145,11 +146,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "6f027b9ccb2d13c5",
+  "active": "22b79f9d0ca7e01e",
   "lastOpenFiles": [
-    "images/스크린샷 2024-05-02 오후 1.27.25.png",
-    "토비의 스프링 3.1/Vol. 1/1장/DAO의 분리.md",
     "Database Internals/Part 1/Chapter 1/Data Files and Index Files.md",
+    "Database Internals/Part 1/Chapter 1/DBMS Architecture.md",
+    "토비의 스프링 3.1/Vol. 1/1장/DAO의 분리.md",
+    "images/스크린샷 2024-05-02 오후 1.27.25.png",
     "images/스크린샷 2024-04-25 오전 5.46.10.png",
     "images/IMG_0787BFAB8361-1.jpeg",
     "토비의 스프링 3.1/Vol. 1/2장/UserDaoTest 다시 보기.md",
