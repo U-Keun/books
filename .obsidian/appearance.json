@@ -1,6 +1,9 @@
 {
   "accentColor": "",
   "enabledCssSnippets": [
-    "image_align"
-  ]
+    "image_align",
+    "color-extend",
+    "custom-background"
+  ],
+  "cssTheme": "AnuPpuccin"
 }

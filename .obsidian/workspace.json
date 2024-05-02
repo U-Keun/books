@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "토비의 스프링 3.1/Vol. 1/1장/DAO의 분리.md",
+                "file": "좋은 코드, 나쁜 코드/Chapter 11/기능뿐만 아니라 동작을 시험하라.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 271.5
   },
   "right": {
     "id": "2545cf5b8a19dcc4",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "토비의 스프링 3.1/Vol. 1/1장/DAO의 분리.md",
+                "file": "좋은 코드, 나쁜 코드/Chapter 11/기능뿐만 아니라 동작을 시험하라.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "토비의 스프링 3.1/Vol. 1/1장/DAO의 분리.md",
+                "file": "좋은 코드, 나쁜 코드/Chapter 11/기능뿐만 아니라 동작을 시험하라.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "토비의 스프링 3.1/Vol. 1/1장/DAO의 분리.md"
+                "file": "좋은 코드, 나쁜 코드/Chapter 11/기능뿐만 아니라 동작을 시험하라.md"
               }
             }
           }
@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,45 +145,46 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "6f027b9ccb2d13c5",
+  "active": "07f649e5ace71030",
   "lastOpenFiles": [
-    "Database Internals/Part 1/Chapter 1/Buffering, Immutability, and Ordering.md",
-    "Database Internals/Part 1/Chapter 1/DBMS Architecture.md",
+    "좋은 코드, 나쁜 코드/Chapter 11/공유 설정을 적절하게 사용하라.md",
+    "좋은 코드, 나쁜 코드/Chapter 10/퍼블릭 API에 집중하되 중요한 동작은 무시하지 말라.md",
+    "좋은 코드, 나쁜 코드/Chapter 10/테스트 철학으로부터 신중하게 선택하라.md",
+    "좋은 코드, 나쁜 코드/Chapter 10/테스트 더블.md",
+    "좋은 코드, 나쁜 코드/Chapter 10/좋은 단위 테스트는 어떻게 작성할 수 있는가?.md",
+    "좋은 코드, 나쁜 코드/Chapter 10/단위 테스트의 원칙.md",
+    "좋은 코드, 나쁜 코드/Chapter 10/단위 테스트 기초.md",
+    "좋은 코드, 나쁜 코드/Chapter 9/코드를 재사용하고 일반화할 수 있도록 하라.md",
+    "좋은 코드, 나쁜 코드/Chapter 9/전역 상태를 주의하라.md",
+    "좋은 코드, 나쁜 코드/Chapter 9/기본 반환값을 적절하게 사용하라.md",
+    "좋은 코드, 나쁜 코드/Chapter 9/가정을 주의하라.md",
+    "좋은 코드, 나쁜 코드/Chapter 8/인터페이스에 의존하라.md",
+    "좋은 코드, 나쁜 코드/Chapter 8/코드를 모듈화하라.md",
+    "좋은 코드, 나쁜 코드/Chapter 8/의존성 주입의 사용을 고려하라.md",
+    "좋은 코드, 나쁜 코드/Chapter 8/무제 파일.md",
+    "만들면서 배우는 클린 아키텍처/04 유스케이스 구현하기.md",
+    "만들면서 배우는 클린 아키텍처/03 코드 구성하기.md",
+    "만들면서 배우는 클린 아키텍처/02 의존성 역전하기.md",
     "토비의 스프링 3.1/Vol. 1/1장/DAO의 분리.md",
-    "images/스크린샷 2024-05-02 오후 1.27.25.png",
-    "Database Internals/Part 1/Chapter 1/Data Files and Index Files.md",
-    "images/스크린샷 2024-04-25 오전 5.46.10.png",
-    "images/IMG_0787BFAB8361-1.jpeg",
-    "토비의 스프링 3.1/Vol. 1/2장/UserDaoTest 다시 보기.md",
-    "images/스크린샷.md",
-    "Database Internals/Part 1/Chapter 1/Introduction and Overview.md",
-    "images/스크린샷 2024-04-08 오전 3.00.54.png",
-    "토비의 스프링 3.1/Vol. 1/1장/스프링의 IoC.md",
-    "토비의 스프링 3.1/Vol. 1/1장/제어의 역전(IoC).md",
-    "토비의 스프링 3.1/Vol. 1/1장/초난감 DAO.md",
-    "토비의 스프링 3.1/Vol. 1/1장/DAO의 확장.md",
+    "만들면서 배우는 클린 아키텍처/01 계층형 아키텍처의 문제는 무엇일까?.md",
     "토비의 스프링 3.1/Vol. 1/1장/XML을 이용한 설정.md",
-    "토비의 스프링 3.1/Vol. 1/2장/UserDaoTest 개선.md",
-    "토비의 스프링 3.1/Vol. 1/2장/학습 테스트로 배우는 스프링.md",
+    "토비의 스프링 3.1/Vol. 1/1장/DAO의 확장.md",
     "토비의 스프링 3.1/Vol. 1/2장/개발자를 위한 테스팅 프레임워크 JUnit.md",
-    "토비의 스프링 3.1/Vol. 1/2장/스프링 테스트 적용.md",
-    "images/2.2.jpeg",
+    "images/스크린샷 2024-04-27 오후 3.22.39.png",
+    "images/스크린샷 2024-04-28 오후 3.00.16.png",
+    "images/스크린샷 2024-05-01 오전 12.43.56.png",
+    "images/IMG_0787BFAB8361-1.jpeg",
+    "토비의 스프링 3.1/Vol. 1/1장/초난감 DAO.md",
+    "토비의 스프링 3.1/Vol. 1/1장/스프링의 IoC.md",
+    "토비의 스프링 3.1/Vol. 1/1장/오브젝트와 의존관계.md",
     "images/1.1.jpeg",
+    "images/스크린샷 2024-05-02 오후 1.27.25.png",
+    "images/스크린샷 2024-04-25 오전 5.46.10.png",
+    "images/스크린샷 2024-04-08 오전 3.00.54.png",
+    "images/2.2.jpeg",
     "images/IMG_A60AACDD625C-1.jpeg",
-    "images/IMG_2EFE1DFE42A2-1.jpeg",
-    "images/스크린샷 2024-04-20 오후 5.23.57.png",
-    "images/스크린샷 2024-04-15 오전 2.17.45.png",
     "images",
     "images 복사본",
-    "Database Internals/Part 1/Chapter 1/Column- Versus Row-Oriented DBMS.md",
-    "토비의 스프링 3.1/Vol. 1/1장/오브젝트와 의존관계.md",
-    "README.md",
-    "Database Internals/Part 1/Storage Engines.md",
-    "무제 파일.md",
-    "토비의 스프링 3.1/Vol. 1/2장/테스트.md",
-    "Effective Java/5장. 제네릭/아이템 28.md",
-    "Effective Java/4장. 클래스와 인터페이스/아이템 17.md",
-    "Effective Java/4장. 클래스와 인터페이스/아이템 15.md",
     "Effective Java/9장. 일반적인 프로그래밍 원칙",
     "Effective Java/8장. 메서드",
     "Effective Java/7장. 람다와 스트림",
