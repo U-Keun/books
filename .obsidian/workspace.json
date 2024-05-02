@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "8806ded43e8687bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "08a2cf5e6e817a13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "972a6e56601c0748",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Effective Java/5장. 제네릭/아이템 28.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "226997bb69f86e4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4e7afe6b2852f5a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07f649e5ace71030",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "455389a5a5c2dce8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "96b24c42128d05ff",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2545cf5b8a19dcc4",
+    "type": "split",
+    "children": [
+      {
+        "id": "139a65df03162810",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22b79f9d0ca7e01e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Effective Java/5장. 제네릭/아이템 28.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2e149c62cb8603d1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Effective Java/5장. 제네릭/아이템 28.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c52adf6a11af9250",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a29cb9bfc384261d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Effective Java/5장. 제네릭/아이템 28.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "972a6e56601c0748",
+  "lastOpenFiles": [
+    "Effective Java/4장. 클래스와 인터페이스/아이템 17.md",
+    "Effective Java/4장. 클래스와 인터페이스/아이템 15.md",
+    "Effective Java/3장. 모든 객체의 공통 메서드/아이템 12.md",
+    "Welcome.md",
+    "Effective Java/5장. 제네릭/아이템 28.md",
+    "Effective Java/5장. 제네릭/아이템 27.md",
+    "Effective Java/5장. 제네릭/아이템 26.md",
+    "Effective Java/5장. 제네릭/아이템 29.md",
+    "Effective Java/4장. 클래스와 인터페이스/아이템 25.md",
+    "Effective Java/4장. 클래스와 인터페이스/아이템 24.md",
+    "Effective Java/4장. 클래스와 인터페이스/아이템 23.md",
+    "Effective Java/4장. 클래스와 인터페이스/아이템 22.md",
+    "Effective Java/4장. 클래스와 인터페이스/아이템 21.md",
+    "Effective Java/4장. 클래스와 인터페이스/아이템 20.md",
+    "Effective Java/4장. 클래스와 인터페이스/아이템 19.md",
+    "Effective Java/4장. 클래스와 인터페이스/아이템 18.md",
+    "Effective Java/4장. 클래스와 인터페이스/아이템 16.md",
+    "Effective Java/9장. 일반적인 프로그래밍 원칙",
+    "Effective Java/8장. 메서드",
+    "Effective Java/7장. 람다와 스트림",
+    "Effective Java/6장. 열거 타입과 애너테이션",
+    "Effective Java/5장. 제네릭",
+    "Effective Java/4장. 클래스와 인터페이스",
+    "Effective Java/3장. 모든 객체의 공통 메서드",
+    "Effective Java/2장. 객체 생성과 파괴",
+    "Effective Java/12장. 직렬화",
+    "Effective Java/11장. 동시성",
+    "Database Internals/Part 1/Chapter2/B-Tree Basics.md",
+    "Database Internals/Part 1/Chapter 1/Memory- Versus Disk-Based DBMS.md",
+    "Database Internals/Part 1/Chapter 1/Introduction and Overview.md",
+    "Database Internals/Part 1/Chapter 1/Data Files and Index Files.md",
+    "Database Internals/Part 1/Chapter 1/DBMS Architecture.md",
+    "Database Internals/Part 1/Chapter 1/Column- Versus Row-Oriented DBMS.md",
+    "Database Internals/Part 1/Chapter 1/Buffering, Immutability, and Ordering.md",
+    "Database Internals/Part 1/Storage Engines.md",
+    "Clean Code/9장. 단위 테스트.md"
+  ]
+}
