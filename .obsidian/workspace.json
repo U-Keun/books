@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "만들면서 배우는 클린 아키텍처/04 유스케이스 구현하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "만들면서 배우는 클린 아키텍처/04 유스케이스 구현하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "만들면서 배우는 클린 아키텍처/04 유스케이스 구현하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "만들면서 배우는 클린 아키텍처/04 유스케이스 구현하기.md"
               }
             }
           }
@@ -147,6 +147,10 @@
   },
   "active": "6f027b9ccb2d13c5",
   "lastOpenFiles": [
+    "만들면서 배우는 클린 아키텍처/03 코드 구성하기.md",
+    "만들면서 배우는 클린 아키텍처/02 의존성 역전하기.md",
+    "만들면서 배우는 클린 아키텍처/01 계층형 아키텍처의 문제는 무엇일까?.md",
+    "README.md",
     "Effective Java/5장. 제네릭/아이템 29.md",
     "Effective Java/5장. 제네릭/아이템 28.md",
     "Effective Java/5장. 제네릭/아이템 27.md",
@@ -169,10 +173,6 @@
     "Database Internals/Part 1/Chapter 1/DBMS Architecture.md",
     "Database Internals/Part 1/Chapter 1/Data Files and Index Files.md",
     "Database Internals/Part 1/Chapter 1/Column- Versus Row-Oriented DBMS.md",
-    "Database Internals/Part 1/Chapter 1/Buffering, Immutability, and Ordering.md",
-    "Clean Code/17장. 냄새와 휴리스틱.md",
-    "Clean Code/16장. SerialDate 리팩터링.md",
-    "Clean Code/15장. JUnit 들여다보기.md",
     "images/스크린샷 2024-04-27 오후 3.22.39.png",
     "images/스크린샷 2024-04-28 오후 3.00.16.png",
     "images/스크린샷 2024-05-01 오전 12.43.56.png",
