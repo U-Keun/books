@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database Internals/Part 1/Chapter 1/Buffering, Immutability, and Ordering.md",
+                "file": "Database Internals/Part 1/Chapter2/B-Tree Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5,
-    "collapsed": true
+    "width": 271.5
   },
   "right": {
     "id": "2545cf5b8a19dcc4",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database Internals/Part 1/Chapter 1/Buffering, Immutability, and Ordering.md",
+                "file": "Database Internals/Part 1/Chapter2/B-Tree Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database Internals/Part 1/Chapter 1/Buffering, Immutability, and Ordering.md",
+                "file": "Database Internals/Part 1/Chapter2/B-Tree Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database Internals/Part 1/Chapter 1/Buffering, Immutability, and Ordering.md"
+                "file": "Database Internals/Part 1/Chapter2/B-Tree Basics.md"
               }
             }
           }
@@ -149,7 +148,12 @@
   },
   "active": "6f027b9ccb2d13c5",
   "lastOpenFiles": [
+    "Database Internals/Part 1/Chapter 1/Introduction and Overview.md",
+    "Database Internals/Part 1/Chapter 1/Memory- Versus Disk-Based DBMS.md",
+    "Database Internals/Part 1/Chapter 1/Column- Versus Row-Oriented DBMS.md",
+    "Database Internals/Part 1/Chapter 1/DBMS Architecture.md",
     "토비의 스프링 3.1/Vol. 1/2장/UserDaoTest 개선.md",
+    "Database Internals/Part 1/Chapter 1/Buffering, Immutability, and Ordering.md",
     "토비의 스프링 3.1/Vol. 1/2장/UserDaoTest 다시 보기.md",
     "README.md",
     "만들면서 배우는 클린 아키텍처/04 유스케이스 구현하기.md",
@@ -170,11 +174,6 @@
     "Effective Java/4장. 클래스와 인터페이스/아이템 18.md",
     "Effective Java/4장. 클래스와 인터페이스/아이템 17.md",
     "Effective Java/4장. 클래스와 인터페이스/아이템 16.md",
-    "Effective Java/4장. 클래스와 인터페이스/아이템 15.md",
-    "Effective Java/3장. 모든 객체의 공통 메서드/아이템 12.md",
-    "Database Internals/Part 1/Storage Engines.md",
-    "Database Internals/Part 1/Chapter 1/Memory- Versus Disk-Based DBMS.md",
-    "Database Internals/Part 1/Chapter 1/Introduction and Overview.md",
     "images/스크린샷 2024-04-27 오후 3.22.39.png",
     "images/스크린샷 2024-04-28 오후 3.00.16.png",
     "images/스크린샷 2024-05-01 오전 12.43.56.png",
