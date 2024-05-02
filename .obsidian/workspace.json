@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9f7205fc7f8ffe5d",
+        "id": "d7c0a9b4ac2343e7",
         "type": "tabs",
         "children": [
           {
-            "id": "e85654c7ea9c5750",
+            "id": "6f027b9ccb2d13c5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "images/스크린샷 2024-04-08 오전 3.00.54.png"
               }
             }
           }
@@ -85,13 +83,14 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "images/스크린샷 2024-04-08 오전 3.00.54.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -101,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "images/스크린샷 2024-04-08 오전 3.00.54.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일.md"
+                "file": "images/스크린샷 2024-04-08 오전 3.00.54.png"
               }
             }
           }
@@ -131,8 +131,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -144,33 +143,46 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "07f649e5ace71030",
+  "active": "6f027b9ccb2d13c5",
   "lastOpenFiles": [
-    "README.md",
-    "무제 파일.md",
+    "토비의 스프링 3.1/Vol. 1/1장/스프링의 IoC.md",
+    "토비의 스프링 3.1/Vol. 1/1장/제어의 역전(IoC).md",
+    "토비의 스프링 3.1/Vol. 1/1장/초난감 DAO.md",
+    "토비의 스프링 3.1/Vol. 1/1장/DAO의 분리.md",
+    "토비의 스프링 3.1/Vol. 1/1장/DAO의 확장.md",
+    "토비의 스프링 3.1/Vol. 1/1장/XML을 이용한 설정.md",
     "토비의 스프링 3.1/Vol. 1/2장/UserDaoTest 다시 보기.md",
     "토비의 스프링 3.1/Vol. 1/2장/UserDaoTest 개선.md",
     "토비의 스프링 3.1/Vol. 1/2장/학습 테스트로 배우는 스프링.md",
-    "토비의 스프링 3.1/Vol. 1/2장/테스트.md",
     "토비의 스프링 3.1/Vol. 1/2장/개발자를 위한 테스팅 프레임워크 JUnit.md",
     "토비의 스프링 3.1/Vol. 1/2장/스프링 테스트 적용.md",
+    "images/IMG_0787BFAB8361-1.jpeg",
+    "images/2.2.jpeg",
+    "images/1.1.jpeg",
+    "images/IMG_A60AACDD625C-1.jpeg",
+    "images/스크린샷 2024-04-25 오전 5.46.10.png",
+    "images/IMG_2EFE1DFE42A2-1.jpeg",
+    "images/스크린샷 2024-04-20 오후 5.23.57.png",
+    "images/스크린샷 2024-04-15 오전 2.17.45.png",
+    "images/스크린샷 2024-04-16 오전 5.12.44.png",
+    "images/스크린샷 2024-04-15 오전 2.05.42.png",
+    "Database Internals/Part 1/Chapter 1/Data Files and Index Files.md",
+    "images",
+    "images 복사본",
+    "Database Internals/Part 1/Chapter 1/Column- Versus Row-Oriented DBMS.md",
+    "Database Internals/Part 1/Chapter 1/Introduction and Overview.md",
+    "토비의 스프링 3.1/Vol. 1/1장/오브젝트와 의존관계.md",
+    "README.md",
+    "Database Internals/Part 1/Chapter 1/Buffering, Immutability, and Ordering.md",
+    "Database Internals/Part 1/Storage Engines.md",
+    "무제 파일.md",
+    "토비의 스프링 3.1/Vol. 1/2장/테스트.md",
     "Effective Java/5장. 제네릭/아이템 28.md",
     "Effective Java/4장. 클래스와 인터페이스/아이템 17.md",
     "Effective Java/4장. 클래스와 인터페이스/아이템 15.md",
     "Effective Java/3장. 모든 객체의 공통 메서드/아이템 12.md",
     "Welcome.md",
     "Effective Java/5장. 제네릭/아이템 27.md",
-    "Effective Java/5장. 제네릭/아이템 26.md",
-    "Effective Java/5장. 제네릭/아이템 29.md",
-    "Effective Java/4장. 클래스와 인터페이스/아이템 25.md",
-    "Effective Java/4장. 클래스와 인터페이스/아이템 24.md",
-    "Effective Java/4장. 클래스와 인터페이스/아이템 23.md",
-    "Effective Java/4장. 클래스와 인터페이스/아이템 22.md",
-    "Effective Java/4장. 클래스와 인터페이스/아이템 21.md",
-    "Effective Java/4장. 클래스와 인터페이스/아이템 20.md",
-    "Effective Java/4장. 클래스와 인터페이스/아이템 19.md",
-    "Effective Java/4장. 클래스와 인터페이스/아이템 18.md",
-    "Effective Java/4장. 클래스와 인터페이스/아이템 16.md",
     "Effective Java/9장. 일반적인 프로그래밍 원칙",
     "Effective Java/8장. 메서드",
     "Effective Java/7장. 람다와 스트림",
@@ -178,9 +190,6 @@
     "Effective Java/5장. 제네릭",
     "Effective Java/4장. 클래스와 인터페이스",
     "Effective Java/3장. 모든 객체의 공통 메서드",
-    "Effective Java/2장. 객체 생성과 파괴",
-    "Effective Java/12장. 직렬화",
-    "Effective Java/11장. 동시성",
-    "Database Internals/Part 1/Chapter2/B-Tree Basics.md"
+    "Effective Java/2장. 객체 생성과 파괴"
   ]
 }
