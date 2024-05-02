@@ -92,9 +92,8 @@ public class DUserDao extends UserDao {
 
 확장된 기능인 DB 커넥션을 생성하는 코드를 다른 DAO 클래스에 적용할 수 없다는 것도 큰 단점이다. `UserDao` 외의 DAO 클래스가 생기고, 그 클래스에서도 DB 커넥션이 필요하다면 상속을 통해서 만들어진 `getConnection()`의 구현 코드가 DAO 클래스마다 중복돼서 나타날 것이기 때문이다.
 
-<p align="center"> 
-	<img src="images/스크린샷 2024-05-02 오후 1.27.25.png" alt="이미지 설명" width="450"> 
-</p>
+
+![[스크린샷 2024-05-02 오후 1.27.25.png]]
 
 
 
