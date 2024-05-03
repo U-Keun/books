@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "토비의 스프링 3.1/Vol. 1/2장/UserDaoTest 개선.md",
+                "file": "토비의 스프링 3.1/Vol. 1/2장/개발자를 위한 테스팅 프레임워크 JUnit.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5,
-    "collapsed": true
+    "width": 271.5
   },
   "right": {
     "id": "2545cf5b8a19dcc4",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "토비의 스프링 3.1/Vol. 1/2장/UserDaoTest 개선.md",
+                "file": "토비의 스프링 3.1/Vol. 1/2장/개발자를 위한 테스팅 프레임워크 JUnit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "토비의 스프링 3.1/Vol. 1/2장/UserDaoTest 개선.md",
+                "file": "토비의 스프링 3.1/Vol. 1/2장/개발자를 위한 테스팅 프레임워크 JUnit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "토비의 스프링 3.1/Vol. 1/2장/UserDaoTest 개선.md"
+                "file": "토비의 스프링 3.1/Vol. 1/2장/개발자를 위한 테스팅 프레임워크 JUnit.md"
               }
             }
           }
@@ -149,12 +148,12 @@
   },
   "active": "6f027b9ccb2d13c5",
   "lastOpenFiles": [
+    "토비의 스프링 3.1/Vol. 1/2장/UserDaoTest 개선.md",
     "Database Internals/Part 1/Chapter2/B-Tree Basics.md",
     "Database Internals/Part 1/Chapter 1/Introduction and Overview.md",
     "Database Internals/Part 1/Chapter 1/Memory- Versus Disk-Based DBMS.md",
     "Database Internals/Part 1/Chapter 1/Column- Versus Row-Oriented DBMS.md",
     "Database Internals/Part 1/Chapter 1/DBMS Architecture.md",
-    "토비의 스프링 3.1/Vol. 1/2장/UserDaoTest 개선.md",
     "Database Internals/Part 1/Chapter 1/Buffering, Immutability, and Ordering.md",
     "토비의 스프링 3.1/Vol. 1/2장/UserDaoTest 다시 보기.md",
     "README.md",

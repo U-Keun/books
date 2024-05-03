@@ -64,5 +64,18 @@ public class UserDaoTest {
 	}
 }
 ```
+`assertThat` 메서드는 두 매개변수의 값을 `is()` 메서드를 이용해 비교한다. `assertEquals` 같은 메서드도 있지만, 일단 넘어가자.
+###### JUnit 테스트 실행
+스프링 컨테이너와 마찬가지로 JUnit 프레임워크도 어디선가 한 번은 실행시켜야 한다. 어디에든 `main()` 메서드를 하나 추가해서 아래와 같이 작성해보자.
+```java
+import org.junit.runner.JUnitCore;
+...
+public static void main(String[] args) {
+	JUnitCore.main("springbook.user.dao.UserDaoTest");
+}
+```
+위의 클래스를 실행하면 테스트를 실행하는 데 걸린 시간, 테스트 결과, 그리고 몇 개의 테스트 메서드가 실행됐는지 등을 알려준다. 실패한 경우에는 실패한 원인이나 검증에 실패한 위치를 확인할 수 있는 내용을 출력해준다.
+
+`assertThat()`을 이용해 검증을 했을 때 기대한 결과가 아니면 `AssertionError`를 던지는데, 이것을 포함한 일반 예외가 발생했을 때, 테스트는 더 이상 진행되지 않고 테스트가 실패했음을 알린다.
 
 #TobySpring #Spring 
