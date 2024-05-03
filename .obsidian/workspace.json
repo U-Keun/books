@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "토비의 스프링 3.1/Vol. 1/2장/개발자를 위한 테스팅 프레임워크 JUnit.md",
+                "file": "Database Internals/Part 1/Chapter2/B-Tree Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "토비의 스프링 3.1/Vol. 1/2장/개발자를 위한 테스팅 프레임워크 JUnit.md",
+                "file": "Database Internals/Part 1/Chapter2/B-Tree Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "토비의 스프링 3.1/Vol. 1/2장/개발자를 위한 테스팅 프레임워크 JUnit.md",
+                "file": "Database Internals/Part 1/Chapter2/B-Tree Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "토비의 스프링 3.1/Vol. 1/2장/개발자를 위한 테스팅 프레임워크 JUnit.md"
+                "file": "Database Internals/Part 1/Chapter2/B-Tree Basics.md"
               }
             }
           }
@@ -148,13 +148,15 @@
   },
   "active": "6f027b9ccb2d13c5",
   "lastOpenFiles": [
-    "토비의 스프링 3.1/Vol. 1/2장/UserDaoTest 개선.md",
-    "Database Internals/Part 1/Chapter2/B-Tree Basics.md",
-    "Database Internals/Part 1/Chapter 1/Introduction and Overview.md",
-    "Database Internals/Part 1/Chapter 1/Memory- Versus Disk-Based DBMS.md",
-    "Database Internals/Part 1/Chapter 1/Column- Versus Row-Oriented DBMS.md",
-    "Database Internals/Part 1/Chapter 1/DBMS Architecture.md",
     "Database Internals/Part 1/Chapter 1/Buffering, Immutability, and Ordering.md",
+    "Database Internals/Part 1/Chapter2/B-Tree Basics.md",
+    "Database Internals/Part 1/Chapter 1/Data Files and Index Files.md",
+    "Database Internals/Part 1/Chapter 1/DBMS Architecture.md",
+    "Database Internals/Part 1/Chapter 1/Memory- Versus Disk-Based DBMS.md",
+    "Database Internals/Part 1/Chapter 1/Introduction and Overview.md",
+    "토비의 스프링 3.1/Vol. 1/2장/개발자를 위한 테스팅 프레임워크 JUnit.md",
+    "토비의 스프링 3.1/Vol. 1/2장/UserDaoTest 개선.md",
+    "Database Internals/Part 1/Chapter 1/Column- Versus Row-Oriented DBMS.md",
     "토비의 스프링 3.1/Vol. 1/2장/UserDaoTest 다시 보기.md",
     "README.md",
     "만들면서 배우는 클린 아키텍처/04 유스케이스 구현하기.md",
@@ -172,8 +174,6 @@
     "Effective Java/4장. 클래스와 인터페이스/아이템 21.md",
     "Effective Java/4장. 클래스와 인터페이스/아이템 20.md",
     "Effective Java/4장. 클래스와 인터페이스/아이템 19.md",
-    "Effective Java/4장. 클래스와 인터페이스/아이템 18.md",
-    "Effective Java/4장. 클래스와 인터페이스/아이템 17.md",
     "images/스크린샷 2024-04-27 오후 3.22.39.png",
     "images/스크린샷 2024-04-28 오후 3.00.16.png",
     "images/스크린샷 2024-05-01 오전 12.43.56.png",
