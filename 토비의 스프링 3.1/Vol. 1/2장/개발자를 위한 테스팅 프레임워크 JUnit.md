@@ -16,19 +16,37 @@ JUnit은 한 번에 여러 테스트를 동시에 실행할 수 있는데, 이�
 
 위에서 주목한 것을 해결하기 위해서는 `addAndGet()` 테스트를 마치고 나면 테스트가 등록한 사용자 정보를 삭제해서, 테스트를 수행하기 이전 상태로 만들어주어야 한다.
 ###### `deleteAll()`의 `getCount()` 추가
+일관성 있는 결과를 보장하는 테스트를 만들기 위해 다음과 같은 메서드를 준비해보자.
 - `deleteAll()`
+	```java
+	public void deleteAll() throws SQLException {
+		Connectionc = dataSource.getConnection();
+	
+		PreparedStatement ps = c.prepareStatement("delete from users");
+	
+		ps.executeUpdate();
+	
+		ps.close();
+		c.close();
+	}
+	```
+- `getCount()`
 ```java
-public void deleteAll() throws SQLException {
-	Connectionc = dataSource.getConnection();
-
-	PreparedStatement ps = c.prepareStatement("delete from users");
-
-	ps.executeUpdate();
-
+public int getCount() throws SQLException {
+	Connection c = dataSource.getConnection();
+	
+	PreparedStatement ps = c.prepareStatement("select count(*) from users");
+	
+	ResultSet rs = ps.executeQuery();
+	rs.next();
+	int count = rs.getInt(1);
+	
+	rs.close();
 	ps.close();
 	c.close();
+	
+	return count;
 }
 ```
-
 
 #TobySpring #Spring 
