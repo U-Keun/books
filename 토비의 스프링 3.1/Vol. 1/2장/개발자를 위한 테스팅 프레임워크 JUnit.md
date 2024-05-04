@@ -48,6 +48,7 @@ JUnit은 한 번에 여러 테스트를 동시에 실행할 수 있는데, 이�
 		return count;
 	}
 	```
+###### `deleteAll()`과 `getCount()`의 테스트
 
 
 #TobySpring #Spring 
