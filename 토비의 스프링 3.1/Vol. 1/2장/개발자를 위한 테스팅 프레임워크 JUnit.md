@@ -31,22 +31,23 @@ JUnit은 한 번에 여러 테스트를 동시에 실행할 수 있는데, 이�
 	}
 	```
 - `getCount()`
-```java
-public int getCount() throws SQLException {
-	Connection c = dataSource.getConnection();
-	
-	PreparedStatement ps = c.prepareStatement("select count(*) from users");
-	
-	ResultSet rs = ps.executeQuery();
-	rs.next();
-	int count = rs.getInt(1);
-	
-	rs.close();
-	ps.close();
-	c.close();
-	
-	return count;
-}
-```
+	```java
+	public int getCount() throws SQLException {
+		Connection c = dataSource.getConnection();
+		
+		PreparedStatement ps = c.prepareStatement("select count(*) from users");
+		
+		ResultSet rs = ps.executeQuery();
+		rs.next();
+		int count = rs.getInt(1);
+		
+		rs.close();
+		ps.close();
+		c.close();
+		
+		return count;
+	}
+	```
+
 
 #TobySpring #Spring 
