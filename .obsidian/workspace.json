@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d7c0a9b4ac2343e7",
+        "id": "5da6292028481cf6",
         "type": "tabs",
         "children": [
           {
-            "id": "6f027b9ccb2d13c5",
+            "id": "3761897743a72878",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5,
-    "collapsed": true
+    "width": 271.5
   },
   "right": {
     "id": "2545cf5b8a19dcc4",
@@ -147,8 +146,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "6f027b9ccb2d13c5",
+  "active": "3761897743a72878",
   "lastOpenFiles": [
+    "Database Internals/Part 1/Chapter2/B-Tree Basics.md",
+    "images/스크린샷 2024-05-06 오전 11.30.25.png",
+    "images/스크린샷 2024-05-04 오전 12.52.15.png",
     "토비의 스프링 3.1/Vol. 1/1장/초난감 DAO.md",
     "토비의 스프링 3.1/Vol. 1/1장/오브젝트와 의존관계.md",
     "토비의 스프링 3.1/Vol. 1/1장/싱글톤 레지스트리와 오브젝트 스코프.md",
@@ -159,11 +161,9 @@
     "토비의 스프링 3.1/Vol. 1/1장/DAO의 분리.md",
     "토비의 스프링 3.1/Vol. 1/1장/스프링의 IoC.md",
     "토비의 스프링 3.1/Vol. 1/2장/개발자를 위한 테스팅 프레임워크 JUnit.md",
-    "Database Internals/Part 1/Chapter2/B-Tree Basics.md",
     "Database Internals/Part 1/Chapter 1/DBMS Architecture.md",
     "Database Internals/Part 1/Chapter 1/Introduction and Overview.md",
     "Database Internals/Part 1/Chapter 1/Memory- Versus Disk-Based DBMS.md",
-    "images/스크린샷 2024-05-04 오전 12.52.15.png",
     "Database Internals/Part 1/Chapter 1/Buffering, Immutability, and Ordering.md",
     "Database Internals/Part 1/Chapter 1/Data Files and Index Files.md",
     "토비의 스프링 3.1/Vol. 1/2장/UserDaoTest 개선.md",
@@ -175,7 +175,6 @@
     "만들면서 배우는 클린 아키텍처/02 의존성 역전하기.md",
     "만들면서 배우는 클린 아키텍처/01 계층형 아키텍처의 문제는 무엇일까?.md",
     "Effective Java/5장. 제네릭/아이템 29.md",
-    "Effective Java/5장. 제네릭/아이템 28.md",
     "images/스크린샷 2024-04-27 오후 3.22.39.png",
     "images/스크린샷 2024-04-28 오후 3.00.16.png",
     "images/스크린샷 2024-05-01 오전 12.43.56.png",
@@ -184,7 +183,6 @@
     "images/스크린샷 2024-05-02 오후 1.27.25.png",
     "images/스크린샷 2024-04-25 오전 5.46.10.png",
     "images/스크린샷 2024-04-08 오전 3.00.54.png",
-    "images/2.2.jpeg",
     "images",
     "images 복사본",
     "Effective Java/9장. 일반적인 프로그래밍 원칙",
