@@ -89,7 +89,47 @@ public void addAndGet() throws SQLException {
 ##### 2.3.3 포괄적인 테스트
 위에서 작성한 테스트 코드에서, `getCount()` 메서드에 대한 테스트는 테이블이 비어있는 경우와 테이블에 한 개의 레코드가 있는 경우만 확인한다. 이것으로 테스트가 충분하다고 생각할 수도 있지만, 미처 생각하지 못한 문제가 숨어 있을지도 모르니 더 꼼꼼한 테스트를 해보는 것이 좋은 자세다.
 ###### `getCount()` 테스트
-이번에는 여러 개의 `User`를 등록해가면서 `getCount()` 메서드의 결과를 매번 확인해보는 코드를 작성해보자. 테스트 메서드는 한 번에 한 가지 검증 목적에만 충실한 것이 좋다.
+이번에는 여러 개의 `User`를 등록해가면서 `getCount()` 메서드의 결과를 매번 확인해보는 코드를 작성해보자. 이번 테스트에서는 USER 테이블에 몇 개의 레코드가 있는지 세는 기능에만 집중할 것이다.
+
+테스트 시나리오는 다음과 같다. 먼저 USER 테이블의 데이터를 모두 지우고 `getCount()` 메서드로 레코드 개수가 0임을 확인한다. 그리고 3개의 사용자 정보를 하나씩 추가하면서 매번 `getCount()`의 결과가 하나씩 증가하는지 확인할 것이다.
+
+`User` 오브젝트를 여러 번 만들고 값을 넣어야 하니, `User` 클래스에 다음과 같은 생성자를 추가해둘 것이다.
+```java
+public User(String id, String name, String password) {
+	this.id = id;
+	this.name = name;
+	this.password = password;
+}
+```
+
+그리고 아래와 같이 `getCount()` 메서드에 대한 테스트 코드를 `addAndGet()` 테스트 아래에 작성하자.
+
+```java
+@Test
+public void count() throws SQLException {
+	ApplicationContext context = new GenericXmlApplicationContext("applicationContext.xml");
+
+	UserDao dao = context.getBean("userDao", UserDao.class);
+	User user1 = new User("gyumee", "박성철", "springno1");
+	User user2 = new User("leegw700", "이길원", "springno2");
+	User user1 = new User("bumjin", "박범진", "springno3");
+	
+	dao.deleteAll();
+	assertThat(dao.getCount(), is(0));
+	
+	dao.add(user1);
+	assertThat(dao.getCount(), is(1));
+
+	dao.add(user2);
+	assertThat(dao.getCount(), is(2));
+
+	dao.add(user3);
+	assertThat(dao.getCount(), is(3));
+}
+```
+
+테스트를 실행하면 `addAndGet()` 테스트와 `count()` 테스트가 실행될 것이다. 주의할 점은 두 개의 테스트가 어떤 순서로 실행될지는 알 수 없다는 것이다. JUnit은 특정한 테스트 메서드의 실행 순서를 보장하지 않는데, 만약 테스트의 결과가 테스트의 실행 순서에 영향을 받는다면 그것은 올바른 테스트가 아니다.
+###### `addAndGet()` 테스트 보완
 
 
 #TobySpring #Spring 
