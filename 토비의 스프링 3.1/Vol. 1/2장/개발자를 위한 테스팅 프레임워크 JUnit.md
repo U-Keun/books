@@ -157,7 +157,8 @@ public void addAndGet() throws SQLException {
 	assertThat(userget2.getPassword(), is(user.getPassword()));
 }
 ```
-
+###### `get()` 예외조건에 대한 테스트
+`get()` 메서드에 
 
 #TobySpring #Spring 
 
