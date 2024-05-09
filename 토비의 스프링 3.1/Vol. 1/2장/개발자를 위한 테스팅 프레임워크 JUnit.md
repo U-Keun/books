@@ -174,6 +174,38 @@ public void getUserFailure() throws SQLException {
 ```
 
 이 테스트는 `dao.get("unknown_id")` 부분에서 `EmptyResultDataAccessException` 예외가 아닌 `SQLException` 예외를 던지기 때문에 실패한다. 이 테스트를 성공시키려면 `UserDao` 클래스의 `get()` 메서드를 수정해야 한다.
+###### 테스트를 성공시키기 위한 코드의 수정
+주어진 `id`에 해당하는 데이터가 없으면 `EmptyResultDataAccessException` 예외를 던지도록 `get()` 메서드를 수정해보자.
+```java
+public User get(String id) throws SQLException {
+	...
+	ResultSet rs = ps.executeQuery();
+
+	User user = null;
+	if (rs.next()) {
+		user = new User();
+		user.setId(rs.getString("id"));
+		user.setName(rs.getString("name"));
+		user.setPassword(rs.getString("password"));
+	}
+
+	rs.close();
+	ps.close();
+	c.close();
+	
+	if (user == null) throw new EmptyResultDataAccessException(1);
+	
+	return user;
+}
+```
+###### 포괄적인 테스트
+간단한 DAO라고 하더라도 포괄적인 테스트를 만들어두는 것이 훨씬 안전하고 유용하다. 단순하고 간단한 테스트가 치명적인 실수를 피할 수 있게 해줄 것이다.
+
+개발자는 긍정적인 경우를 골라 성공할 만한 테스트만 골라서 만드는 경향이 있는데, 부정적인 경우에 대한 테스트를 먼저 만드는 습관을 들이는 것이 좋다. 위에서 작업한 것처럼 `get()` 메서드가 존재하지 않는 `id`가 주어졌을 때 어떻게 반응할 지를 결정하고, 이를 확인할 수 있는 테스트를 먼저 만들어서 예외적인 상황을 빠뜨리지 않는 꼼꼼한 개발에 도움이 될 것이다.
+##### 2.3.4 테스트가 이끄는 개발
+위에서 작업한 순서를 생각해보면 테스트를 먼저 만들어 테스트가 실패하는 것을 보고 나서 `UserDao`의 코드를 수정했다. 
+###### 기능설계를 위한 테스트
+
 
 #TobySpring #Spring 
 
