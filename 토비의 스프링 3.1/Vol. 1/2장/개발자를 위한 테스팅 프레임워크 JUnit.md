@@ -159,8 +159,9 @@ public void addAndGet() throws SQLException {
 ```
 ###### `get()` 예외조건에 대한 테스트
 `get()` 메서드에 전달된 `id` 값에 해당하는 사용자 정보가 없는 경우에 대한 처리는 구현되어있지 않다. 이 경우를 처리하는 방법으로 `null` 값을 반환하거나, `id`에 해당하는 정보를 찾을 수 없다는 것을 알리기 위한 예외를 던질 수 있다. 여기서는 예외를 던지는 방법을 사용해보자.
+
 ```java
-@Test(expecte = EmptyResultDataAccessException.class) // 테스트에서 던져질 것으로 기대하는 예외
+@Test(expected = EmptyResultDataAccessException.class) // 테스트에서 던져질 것으로 기대하는 예외
 public void getUserFailure() throws SQLException {
 	ApplicationContext context = new GenericXmlApplicationContext("applicationContext.xml");
 
@@ -172,6 +173,7 @@ public void getUserFailure() throws SQLException {
 }
 ```
 
+이 테스트는 `dao.get("unknown_id")` 부분에서 `EmptyResultDataAccessException` 예외를 던지고, 그것은 `expected`에서 지정한 예외이므로 테스트가 성고
 
 #TobySpring #Spring 
 
