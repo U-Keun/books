@@ -173,7 +173,7 @@ public void getUserFailure() throws SQLException {
 }
 ```
 
-이 테스트는 `dao.get("unknown_id")` 부분에서 `EmptyResultDataAccessException` 예외를 던지고, 그것은 `expected`에서 지정한 예외이므로 테스트가 성고
+이 테스트는 `dao.get("unknown_id")` 부분에서 `EmptyResultDataAccessException` 예외가 아닌 `SQLException` 예외를 던지기 때문에 실패한다. 이 테스트를 성공시키려면 `UserDao` 클래스의 `get()` 메서드를 수정해야 한다.
 
 #TobySpring #Spring 
 
