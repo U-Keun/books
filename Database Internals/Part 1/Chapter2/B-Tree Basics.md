@@ -103,7 +103,12 @@ B-Tree는 도서관의 방대한 카탈로그 방처럼 생각할 수 있습니�
 
 B-Tree는 균형잡힌(balanced) 탐색 트리를 기반으로 구축되고 분기 개수(fanout)가 크고 높이가 낮습니다.
 
+B-Tree의 노드는 아래의 그림처럼 표현됩니다. 
+<p align="center">
+	<img width="350" src="../../../images/스크린샷 2024-05-10 오후 4.43.22.png">
+</p>
 
+![[스크린샷 2024-05-10 오후 5.01.04.png|center|350]]
 
 #DataBase  #DataBaseInternals 
 
