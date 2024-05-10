@@ -283,8 +283,24 @@ JUnit이 하나의 테스트 클래스를 가져와서 테스트를 수행하는
 
 만약 테스트 메서드의 일부에서만 공통적으로 사용되는 코드가 있다면, `@Before`를 사용하기보다는 메서드를 추출해서 테스트 메서드에서 직접 호출해 사용하거나, 공통적인 특징을 지닌 테스트 메서드를 모아서 별도의 테스트 클래스로 만드는 방법도 고려해볼 수 있다.
 ###### 픽스처
-테스트를 수행하는 데 필요한 정보나 오브젝트를 *픽스처*[^fixture]라고 한다. 일반적으로 픽스처는 여러 테스트에서 반복적으로 사용되기 때문에 `@Before` 메서드를 이용해 생성해두는 것이 좋다. `UserDaoTest`에서는 `dao`가 픽스처다. 
+테스트를 수행하는 데 필요한 정보나 오브젝트를 *픽스처*[^fixture]라고 한다. 일반적으로 픽스처는 여러 테스트에서 반복적으로 사용되기 때문에 `@Before` 메서드를 이용해 생성해두는 것이 좋다. `UserDaoTest`에서는 `dao`가 픽스처다. 그리고 테스트 중에 `add()` 메서드에 전달하는 `User` 객체들도 픽스처라고 볼 수 있다. 모든 테스트에서 사용되는 것은 아니지만, 새로운 기능이 추가되었을 때 사용될 수도 있으니 `@Before`에서 생성하도록 만드는 것이 나을 수 있다.
 
+다음과 같이 코드를 수정해보자.
+```java
+public class UserDaoTest {
+	private UserDao dao;
+	private User user1, user2, user3;
+
+	@Before
+	public void setUp() {
+		...
+		this.user1 = new User("gyumee", "박성철", "springno1");
+		this.user2 = new User("leegw700", "이길원", "springno2");
+		this.user3 = new User("bumjin", "박범진", "springno3");
+	}
+	...
+}
+```
 
 #TobySpring #Spring 
 
