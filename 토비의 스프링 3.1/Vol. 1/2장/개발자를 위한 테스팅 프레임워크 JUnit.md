@@ -238,6 +238,35 @@ TDD에서는 테스트를 작성하고 이를 성공시키는 코드를 만드�
 
 `UserDaoTest` 코드에서 어플리케이션 컨텍스트를 만드는 부분과 컨텍스트에서 `UserDao`를 가져오는 부분은 여러번 중복된다. 중복된 코드는 별도의 메서드로 뽑아내는 것이 가장 쉬운 방법이지만, 이번에는 JUnit이 제공하는 기능을 활용해보자.
 ###### `@Before`
+중복됐던 코드를 넣을 `setUp()`이라는 이름의 메서드를 만들어보자. 기존에 작성했던 테스트 메서드에서 중복되었던 부분은 모두 지웠다.
+```java
+import org.junit.Before;
+...
+public class UserDaoTest {
+	private UserDao dao;
+
+	@Before
+	public void setUp() {
+		ApplicationContext context = new GenericXmlApplicationContext("applicationContext.xml");
+		this.dao = context.getBean("userDao", UserDao.class);
+	}
+	...
+	@Test
+	public void addAndGet() throws SQLException {
+		...
+	}
+
+	@Test
+	public void count() throws SQLException {
+		...
+	}
+
+	@Test(expected = EmptyResultDataAccessException.class)
+	public void getUserFailure() throws SQLException {
+		...
+	}
+}
+```
 
 
 #TobySpring #Spring 
