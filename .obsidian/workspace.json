@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "토비의 스프링 3.1/Vol. 1/1장/스프링의 IoC.md",
+                "file": "토비의 스프링 3.1/Vol. 1/2장/학습 테스트로 배우는 스프링.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5
+    "width": 271.5,
+    "collapsed": true
   },
   "right": {
     "id": "2545cf5b8a19dcc4",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "토비의 스프링 3.1/Vol. 1/1장/스프링의 IoC.md",
+                "file": "토비의 스프링 3.1/Vol. 1/2장/학습 테스트로 배우는 스프링.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "토비의 스프링 3.1/Vol. 1/1장/스프링의 IoC.md",
+                "file": "토비의 스프링 3.1/Vol. 1/2장/학습 테스트로 배우는 스프링.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "토비의 스프링 3.1/Vol. 1/1장/스프링의 IoC.md"
+                "file": "토비의 스프링 3.1/Vol. 1/2장/학습 테스트로 배우는 스프링.md"
               }
             }
           }
@@ -148,12 +149,17 @@
   },
   "active": "3761897743a72878",
   "lastOpenFiles": [
+    "토비의 스프링 3.1/Vol. 1/2장/테스트.md",
+    "토비의 스프링 3.1/Vol. 1/2장/스프링 테스트 적용.md",
+    "토비의 스프링 3.1/Vol. 1/1장/의존관계 주입(DI).md",
+    "토비의 스프링 3.1/Vol. 1/1장/오브젝트와 의존관계.md",
+    "토비의 스프링 3.1/Vol. 1/1장/제어의 역전(IoC).md",
+    "토비의 스프링 3.1/Vol. 1/1장/초난감 DAO.md",
+    "토비의 스프링 3.1/Vol. 1/1장/스프링의 IoC.md",
     "토비의 스프링 3.1/Vol. 1/1장/XML을 이용한 설정.md",
     "토비의 스프링 3.1/Vol. 1/1장/DAO의 분리.md",
     "토비의 스프링 3.1/Vol. 1/1장/DAO의 확장.md",
-    "토비의 스프링 3.1/Vol. 1/2장/스프링 테스트 적용.md",
     "Database Internals/Part 1/Chapter2/B-Tree Basics.md",
-    "토비의 스프링 3.1/Vol. 1/2장/테스트.md",
     "토비의 스프링 3.1/Vol. 1/2장/개발자를 위한 테스팅 프레임워크 JUnit.md",
     "images/스크린샷 2024-05-10 오후 6.06.49.png",
     "images/스크린샷 2024-05-10 오후 5.13.58.png",
@@ -162,12 +168,7 @@
     "토비의 스프링 3.1/Vol. 1/2장/UserDaoTest 개선.md",
     "images/스크린샷 2024-05-06 오전 11.30.25.png",
     "images/스크린샷 2024-05-04 오전 12.52.15.png",
-    "토비의 스프링 3.1/Vol. 1/1장/초난감 DAO.md",
-    "토비의 스프링 3.1/Vol. 1/1장/오브젝트와 의존관계.md",
     "토비의 스프링 3.1/Vol. 1/1장/싱글톤 레지스트리와 오브젝트 스코프.md",
-    "토비의 스프링 3.1/Vol. 1/1장/의존관계 주입(DI).md",
-    "토비의 스프링 3.1/Vol. 1/1장/제어의 역전(IoC).md",
-    "토비의 스프링 3.1/Vol. 1/1장/스프링의 IoC.md",
     "Database Internals/Part 1/Chapter 1/DBMS Architecture.md",
     "Database Internals/Part 1/Chapter 1/Introduction and Overview.md",
     "Database Internals/Part 1/Chapter 1/Memory- Versus Disk-Based DBMS.md",
