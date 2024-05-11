@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "토비의 스프링 3.1/Vol. 1/2장/학습 테스트로 배우는 스프링.md",
+                "file": "토비의 스프링 3.1/Vol. 1/2장/테스트.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "토비의 스프링 3.1/Vol. 1/2장/학습 테스트로 배우는 스프링.md",
+                "file": "토비의 스프링 3.1/Vol. 1/2장/테스트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "토비의 스프링 3.1/Vol. 1/2장/학습 테스트로 배우는 스프링.md",
+                "file": "토비의 스프링 3.1/Vol. 1/2장/테스트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "토비의 스프링 3.1/Vol. 1/2장/학습 테스트로 배우는 스프링.md"
+                "file": "토비의 스프링 3.1/Vol. 1/2장/테스트.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "3761897743a72878",
   "lastOpenFiles": [
-    "토비의 스프링 3.1/Vol. 1/2장/테스트.md",
     "토비의 스프링 3.1/Vol. 1/2장/학습 테스트로 배우는 스프링.md",
+    "토비의 스프링 3.1/Vol. 1/2장/테스트.md",
     "토비의 스프링 3.1/Vol. 1/1장/오브젝트와 의존관계.md",
     "토비의 스프링 3.1/Vol. 1/1장/초난감 DAO.md",
     "토비의 스프링 3.1/Vol. 1/2장/스프링 테스트 적용.md",
