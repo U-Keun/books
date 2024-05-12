@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5,
-    "collapsed": true
+    "width": 271.5
   },
   "right": {
     "id": "2545cf5b8a19dcc4",
@@ -148,8 +147,9 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "3761897743a72878",
+  "active": "07f649e5ace71030",
   "lastOpenFiles": [
+    "images/스크린샷 2024-05-12 오후 3.39.16.png",
     "Database Internals/Part 1/Chapter2/Disk-Based Structures.md",
     "Database Internals/Part 1/Chapter2/B-Tree Basics.md",
     "Database Internals/Part 1/Chapter2/Binary Search Trees.md",
@@ -176,7 +176,6 @@
     "토비의 스프링 3.1/Vol. 1/2장/스프링 테스트 적용.md",
     "토비의 스프링 3.1/Vol. 1/1장/의존관계 주입(DI).md",
     "토비의 스프링 3.1/Vol. 1/1장/제어의 역전(IoC).md",
-    "토비의 스프링 3.1/Vol. 1/1장/XML을 이용한 설정.md",
     "images/스크린샷 2024-05-10 오후 6.06.49.png",
     "images/스크린샷 2024-05-10 오후 5.13.58.png",
     "images/스크린샷 2024-05-10 오후 5.01.04.png",
