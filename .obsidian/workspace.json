@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database Internals/Part 1/Chapter2/Ubiquitous B-Trees.md",
+                "file": "Database Internals/Part 1/Chapter2/Disk-Based Structures.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5
+    "width": 271.5,
+    "collapsed": true
   },
   "right": {
     "id": "2545cf5b8a19dcc4",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database Internals/Part 1/Chapter2/Ubiquitous B-Trees.md",
+                "file": "Database Internals/Part 1/Chapter2/Disk-Based Structures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database Internals/Part 1/Chapter2/Ubiquitous B-Trees.md",
+                "file": "Database Internals/Part 1/Chapter2/Disk-Based Structures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database Internals/Part 1/Chapter2/Ubiquitous B-Trees.md"
+                "file": "Database Internals/Part 1/Chapter2/Disk-Based Structures.md"
               }
             }
           }
@@ -147,13 +148,13 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "07f649e5ace71030",
+  "active": "3761897743a72878",
   "lastOpenFiles": [
-    "images/스크린샷 2024-05-12 오후 3.39.16.png",
-    "Database Internals/Part 1/Chapter2/Disk-Based Structures.md",
     "Database Internals/Part 1/Chapter2/B-Tree Basics.md",
     "Database Internals/Part 1/Chapter2/Binary Search Trees.md",
     "Database Internals/Part 1/Chapter2/Ubiquitous B-Trees.md",
+    "images/스크린샷 2024-05-12 오후 3.39.16.png",
+    "Database Internals/Part 1/Chapter2/Disk-Based Structures.md",
     "Database Internals/Part 1/Chapter 1/Data Files and Index Files.md",
     "Database Internals/Part 1/Chapter 1/Buffering, Immutability, and Ordering.md",
     "Database Internals/Part 1/Chapter 1/Memory- Versus Disk-Based DBMS.md",
@@ -185,7 +186,6 @@
     "images/스크린샷 2024-04-27 오후 3.22.39.png",
     "images/스크린샷 2024-04-28 오후 3.00.16.png",
     "images/스크린샷 2024-05-01 오전 12.43.56.png",
-    "images/IMG_0787BFAB8361-1.jpeg",
     "images",
     "images 복사본",
     "Effective Java/9장. 일반적인 프로그래밍 원칙",
