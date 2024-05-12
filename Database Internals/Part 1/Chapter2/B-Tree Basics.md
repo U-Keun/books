@@ -161,6 +161,7 @@ B-Tree의 탐색 복잡도는 탐색하는 동안 블럭이 전달된 횟수와,
 
 
 
+
 #DataBase  #DataBaseInternals 
 
 [^1]: 여기서 `b` 노드는 *rotation pivot*이라고 불립니다.
