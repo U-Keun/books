@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Effective Java/4장. 클래스와 인터페이스/아이템 24.md",
+                "file": "토비의 스프링 3.1/Vol. 1/3장/다시 보는 초난감 DAO.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5
+    "width": 271.5,
+    "collapsed": true
   },
   "right": {
     "id": "2545cf5b8a19dcc4",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Effective Java/4장. 클래스와 인터페이스/아이템 24.md",
+                "file": "토비의 스프링 3.1/Vol. 1/3장/다시 보는 초난감 DAO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Effective Java/4장. 클래스와 인터페이스/아이템 24.md",
+                "file": "토비의 스프링 3.1/Vol. 1/3장/다시 보는 초난감 DAO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Effective Java/4장. 클래스와 인터페이스/아이템 24.md"
+                "file": "토비의 스프링 3.1/Vol. 1/3장/다시 보는 초난감 DAO.md"
               }
             }
           }
@@ -149,6 +150,12 @@
   },
   "active": "3761897743a72878",
   "lastOpenFiles": [
+    "토비의 스프링 3.1/Vol. 1/3장/스프링의 JDBCTEMPLATE.md",
+    "Effective Java/3장. 모든 객체의 공통 메서드/아이템 12.md",
+    "Effective Java/5장. 제네릭/아이템 28.md",
+    "Effective Java/5장. 제네릭/아이템 26.md",
+    "Effective Java/5장. 제네릭/아이템 27.md",
+    "Effective Java/4장. 클래스와 인터페이스/아이템 24.md",
     "Effective Java/4장. 클래스와 인터페이스/아이템 23.md",
     "Effective Java/4장. 클래스와 인터페이스/아이템 22.md",
     "Effective Java/4장. 클래스와 인터페이스/아이템 20.md",
@@ -156,7 +163,6 @@
     "Effective Java/4장. 클래스와 인터페이스/아이템 15.md",
     "Effective Java/4장. 클래스와 인터페이스/아이템 16.md",
     "Effective Java/4장. 클래스와 인터페이스/아이템 17.md",
-    "Effective Java/3장. 모든 객체의 공통 메서드/아이템 12.md",
     "토비의 스프링 3.1/Vol. 1/3장/다시 보는 초난감 DAO.md",
     "토비의 스프링 3.1/Vol. 1/3장/템플릿.md",
     "Database Internals/Part 1/Chapter2/Disk-Based Structures.md",
@@ -171,11 +177,6 @@
     "Database Internals/Part 1/Chapter 1/DBMS Architecture.md",
     "Database Internals/Part 1/Chapter 1/Column- Versus Row-Oriented DBMS.md",
     "토비의 스프링 3.1/Vol. 1/2장/테스트.md",
-    "토비의 스프링 3.1/Vol. 1/1장/오브젝트와 의존관계.md",
-    "토비의 스프링 3.1/Vol. 1/1장/스프링의 IoC.md",
-    "토비의 스프링 3.1/Vol. 1/3장/스프링의 JDBCTEMPLATE.md",
-    "토비의 스프링 3.1/Vol. 1/3장/템플릿과 콜백.md",
-    "토비의 스프링 3.1/Vol. 1/3장/컨텍스트와 DI.md",
     "토비의 스프링 3.1/Vol. 1/3장",
     "images/스크린샷 2024-05-10 오후 6.06.49.png",
     "images/스크린샷 2024-05-10 오후 5.13.58.png",

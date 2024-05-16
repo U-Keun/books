@@ -17,6 +17,8 @@ public void deleteAll() throws SQLException {
 
 일반적으로 서버에서는 제한된 개수의 DB 커넥션을 만들어서 재사용 가능한 풀로 관리한다. DB 풀은 매번 `getConnection()`으로 가져간 커넥션을 명시적으로 `close()`해서 돌려줘야 재사용 할 수 있다. 반환되지 못한 `Connection`이 계속 쌓이면 리소스가 모자란다는 오류를 내며 서버가 중단된다. 
 
-이런 JDBC 코드에서는 어떤 상황에서도 가져온 리소스를 반환하도록 `try/catch/finally` 구문 사용을 권장한다. 
+이런 JDBC 코드에서는 어떤 상황에서도 가져온 리소스를 반환하도록 `try/catch/finally` 구문 사용을 권장한다.[^1]
 
 #TobySpring #Spring 
+
+[^1]: 책 Effective Java에서는 `try-with-resources`를 권장한다.
