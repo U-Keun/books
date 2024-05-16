@@ -17,7 +17,50 @@ public void deleteAll() throws SQLException {
 
 일반적으로 서버에서는 제한된 개수의 DB 커넥션을 만들어서 재사용 가능한 풀로 관리한다. DB 풀은 매번 `getConnection()`으로 가져간 커넥션을 명시적으로 `close()`해서 돌려줘야 재사용 할 수 있다. 반환되지 못한 `Connection`이 계속 쌓이면 리소스가 모자란다는 오류를 내며 서버가 중단된다. 
 
-이런 JDBC 코드에서는 어떤 상황에서도 가져온 리소스를 반환하도록 `try/catch/finally` 구문 사용을 권장한다.[^1] 
+이런 JDBC 코드에서는 어떤 상황에서도 가져온 리소스를 반환하도록 `try/catch/finally` 구문 사용을 권장한다.[^1] 이것이 적용된 코드를 보자.
+```java
+public void deleteAll() throws SQLException {
+	Connection c = null;
+	PreparedStatement ps = null;
+
+	try {
+		c = dataSource.getConnection();
+		ps = c.preparesStatement("delete from users");
+		ps.executedUdate();
+	} catch (SQLException e) {
+		throw e;
+	} finally {
+		if (ps != null) {
+			try {
+				ps.close();
+			} catch (SQLException e) {} // close() 메서드에서도 SQLException이 발생할 수 있음
+		}
+		if (c != null) {
+			try {
+				c.close();
+			} catch (SQLException e) {}
+		}
+	}
+}
+```
+
+위의 코드는 예외상황에도 안전하게 리소스를 반환한다. `catch` 구문으로 메서드 밖으로 `SQLException`을 던지거나 아무것도 하지 않는 부분이 있는데, 없애도 되지만 예외가 발생한 경우에 로그를 남기는 등의 작업이 필요할 수 있으니 추가해 두었다.
+
+참고로, `try-with-resources`를 사용한 코드는 다음과 같다.
+```java
+public void deleteAll() throws SQLException { 
+	String sql = "delete from users";
+
+	try (Connection c = dataSource.getConnection();
+		PreparedStatement ps = c.prepareStatement(sql)) { 
+		ps.executeUpdate(); 
+		} catch (SQLException e) { 
+			throw e; 
+	} 
+}
+```
+###### JDBC 조회 기능의 예외처리
+조회를 할 때는 `Connection`, `PreparedStatement`에 추가로 `ResultSet` 리소스가 추가된다. 이것 또한 반환해야 하는 리소스이므로 예외상황에서도 `ResultSet`의 `close()` 메서드가 반드시 호출되어야 한다. 코드는 생략하겠다.
 
 #TobySpring #Spring 
 

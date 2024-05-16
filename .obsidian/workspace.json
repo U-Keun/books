@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "토비의 스프링 3.1/Vol. 1/3장/다시 보는 초난감 DAO.md",
+                "file": "토비의 스프링 3.1/Vol. 1/3장/변하는 것과 변하지 않는 것.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "토비의 스프링 3.1/Vol. 1/3장/다시 보는 초난감 DAO.md",
+                "file": "토비의 스프링 3.1/Vol. 1/3장/변하는 것과 변하지 않는 것.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "토비의 스프링 3.1/Vol. 1/3장/다시 보는 초난감 DAO.md",
+                "file": "토비의 스프링 3.1/Vol. 1/3장/변하는 것과 변하지 않는 것.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "토비의 스프링 3.1/Vol. 1/3장/다시 보는 초난감 DAO.md"
+                "file": "토비의 스프링 3.1/Vol. 1/3장/변하는 것과 변하지 않는 것.md"
               }
             }
           }
@@ -150,21 +150,21 @@
   },
   "active": "3761897743a72878",
   "lastOpenFiles": [
-    "토비의 스프링 3.1/Vol. 1/3장/스프링의 JDBCTEMPLATE.md",
-    "Effective Java/3장. 모든 객체의 공통 메서드/아이템 12.md",
-    "Effective Java/5장. 제네릭/아이템 28.md",
-    "Effective Java/5장. 제네릭/아이템 26.md",
-    "Effective Java/5장. 제네릭/아이템 27.md",
-    "Effective Java/4장. 클래스와 인터페이스/아이템 24.md",
-    "Effective Java/4장. 클래스와 인터페이스/아이템 23.md",
-    "Effective Java/4장. 클래스와 인터페이스/아이템 22.md",
-    "Effective Java/4장. 클래스와 인터페이스/아이템 20.md",
-    "Effective Java/4장. 클래스와 인터페이스/아이템 18.md",
-    "Effective Java/4장. 클래스와 인터페이스/아이템 15.md",
-    "Effective Java/4장. 클래스와 인터페이스/아이템 16.md",
-    "Effective Java/4장. 클래스와 인터페이스/아이템 17.md",
-    "토비의 스프링 3.1/Vol. 1/3장/다시 보는 초난감 DAO.md",
     "토비의 스프링 3.1/Vol. 1/3장/템플릿.md",
+    "토비의 스프링 3.1/Vol. 1/3장/다시 보는 초난감 DAO.md",
+    "Effective Java/3장. 모든 객체의 공통 메서드/아이템 12.md",
+    "Effective Java/4장. 클래스와 인터페이스/아이템 16.md",
+    "Effective Java/4장. 클래스와 인터페이스/아이템 18.md",
+    "Effective Java/4장. 클래스와 인터페이스/아이템 17.md",
+    "Effective Java/4장. 클래스와 인터페이스/아이템 15.md",
+    "Effective Java/4장. 클래스와 인터페이스/아이템 20.md",
+    "Effective Java/4장. 클래스와 인터페이스/아이템 22.md",
+    "Effective Java/4장. 클래스와 인터페이스/아이템 23.md",
+    "Effective Java/4장. 클래스와 인터페이스/아이템 24.md",
+    "Effective Java/5장. 제네릭/아이템 27.md",
+    "Effective Java/5장. 제네릭/아이템 26.md",
+    "Effective Java/5장. 제네릭/아이템 28.md",
+    "토비의 스프링 3.1/Vol. 1/3장/스프링의 JDBCTEMPLATE.md",
     "Database Internals/Part 1/Chapter2/Disk-Based Structures.md",
     "Database Internals/Part 1/Chapter2/B-Tree Basics.md",
     "Database Internals/Part 1/Chapter2/Binary Search Trees.md",
