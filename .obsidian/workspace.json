@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "토비의 스프링 3.1/Vol. 1/3장/변하는 것과 변하지 않는 것.md",
+                "file": "Database Internals/Part 1/Chapter2/Ubiquitous B-Trees.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5,
-    "collapsed": true
+    "width": 271.5
   },
   "right": {
     "id": "2545cf5b8a19dcc4",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "토비의 스프링 3.1/Vol. 1/3장/변하는 것과 변하지 않는 것.md",
+                "file": "Database Internals/Part 1/Chapter2/Ubiquitous B-Trees.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "토비의 스프링 3.1/Vol. 1/3장/변하는 것과 변하지 않는 것.md",
+                "file": "Database Internals/Part 1/Chapter2/Ubiquitous B-Trees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "토비의 스프링 3.1/Vol. 1/3장/변하는 것과 변하지 않는 것.md"
+                "file": "Database Internals/Part 1/Chapter2/Ubiquitous B-Trees.md"
               }
             }
           }
@@ -150,6 +149,8 @@
   },
   "active": "3761897743a72878",
   "lastOpenFiles": [
+    "스크린샷 2024-05-16 오후 1.36.00.png",
+    "토비의 스프링 3.1/Vol. 1/3장/변하는 것과 변하지 않는 것.md",
     "토비의 스프링 3.1/Vol. 1/3장/템플릿.md",
     "토비의 스프링 3.1/Vol. 1/3장/다시 보는 초난감 DAO.md",
     "Effective Java/3장. 모든 객체의 공통 메서드/아이템 12.md",
@@ -175,8 +176,6 @@
     "Database Internals/Part 1/Chapter 1/Memory- Versus Disk-Based DBMS.md",
     "Database Internals/Part 1/Chapter 1/Introduction and Overview.md",
     "Database Internals/Part 1/Chapter 1/DBMS Architecture.md",
-    "Database Internals/Part 1/Chapter 1/Column- Versus Row-Oriented DBMS.md",
-    "토비의 스프링 3.1/Vol. 1/2장/테스트.md",
     "토비의 스프링 3.1/Vol. 1/3장",
     "images/스크린샷 2024-05-10 오후 6.06.49.png",
     "images/스크린샷 2024-05-10 오후 5.13.58.png",
