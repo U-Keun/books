@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database Internals/Part 1/Chapter 3/File Formats.md",
+                "file": "Database Internals/Part 1/Chapter 3/Motivation.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database Internals/Part 1/Chapter 3/File Formats.md",
+                "file": "Database Internals/Part 1/Chapter 3/Motivation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database Internals/Part 1/Chapter 3/File Formats.md",
+                "file": "Database Internals/Part 1/Chapter 3/Motivation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database Internals/Part 1/Chapter 3/File Formats.md"
+                "file": "Database Internals/Part 1/Chapter 3/Motivation.md"
               }
             }
           }
@@ -150,6 +150,7 @@
   },
   "active": "3761897743a72878",
   "lastOpenFiles": [
+    "Database Internals/Part 1/Chapter 3/File Formats.md",
     "Database Internals/Part 1/Chapter 3/Checksumming.md",
     "Database Internals/Part 1/Chapter 3/Versioning.md",
     "Database Internals/Part 1/Chapter 3/Managing Variable-Size Data.md",
@@ -160,7 +161,6 @@
     "Database Internals/Part 1/Chapter 3/General Principles.md",
     "Database Internals/Part 1/Chapter 3/Binary Encoding.md",
     "Database Internals/Part 1/Chapter 3/Motivation.md",
-    "Database Internals/Part 1/Chapter 3/File Formats.md",
     "Database Internals/Part 1/Chapter 1/Introduction and Overview.md",
     "Database Internals/Part 1/Chapter 2/Ubiquitous B-Trees.md",
     "Database Internals/Part 1/Chapter 3",
