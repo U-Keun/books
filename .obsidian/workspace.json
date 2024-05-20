@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Introduction to Algorithms/Advanced Design and Analysis Techniques/Dynamic Programming/Dynamic Programming.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5
+    "width": 271.5,
+    "collapsed": true
   },
   "right": {
     "id": "2545cf5b8a19dcc4",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Introduction to Algorithms/Advanced Design and Analysis Techniques/Dynamic Programming/Dynamic Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Introduction to Algorithms/Advanced Design and Analysis Techniques/Dynamic Programming/Dynamic Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Introduction to Algorithms/Advanced Design and Analysis Techniques/Dynamic Programming/Dynamic Programming.md"
               }
             }
           }
@@ -147,8 +148,10 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "07f649e5ace71030",
+  "active": "3761897743a72878",
   "lastOpenFiles": [
+    "README.md",
+    "Introduction to Algorithms/Advanced Design and Analysis Techniques/Dynamic Programming/Dynamic Programming.md",
     "Introduction to Algorithms/Advanced Design and Analysis Techniques/Dynamic Programming",
     "Introduction to Algorithms/Advanced Design and Analysis Techniques",
     "Introduction to Algorithms",
@@ -182,7 +185,6 @@
     "Effective Java/4장. 클래스와 인터페이스/아이템 18.md",
     "Effective Java/4장. 클래스와 인터페이스/아이템 17.md",
     "Effective Java/4장. 클래스와 인터페이스/아이템 15.md",
-    "Effective Java/4장. 클래스와 인터페이스/아이템 20.md",
     "images/스크린샷 2024-05-12 오후 3.39.16.png",
     "토비의 스프링 3.1/Vol. 1/3장",
     "images/스크린샷 2024-05-10 오후 6.06.49.png",
@@ -193,7 +195,6 @@
     "images 복사본",
     "Effective Java/9장. 일반적인 프로그래밍 원칙",
     "Effective Java/8장. 메서드",
-    "Effective Java/7장. 람다와 스트림",
-    "Effective Java/6장. 열거 타입과 애너테이션"
+    "Effective Java/7장. 람다와 스트림"
   ]
 }
