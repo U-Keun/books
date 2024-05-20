@@ -4,6 +4,7 @@
 - 정리 중인 노트
 	- 토비의 스프링 3.1(스터디 진행중)
 	- Database Internals(스터디 진행중)
+	- Introduction to algorithms(과외 준비)
 - 읽는 것을 멈춘 책들
 	- Effective Java
 	- Clean Code
