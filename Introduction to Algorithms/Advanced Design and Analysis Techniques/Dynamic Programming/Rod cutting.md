@@ -12,4 +12,7 @@
 
 
 
+- 백준 문제
+	- [카드 구매하기](https://www.acmicpc.net/problem/11052)
+
 #Algorithm #DP 
