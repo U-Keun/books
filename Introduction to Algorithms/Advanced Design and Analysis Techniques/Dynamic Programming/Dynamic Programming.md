@@ -10,14 +10,10 @@
 
 1 - 3 단계는 문제에 대한 동적 프로그래밍 해의 기반입니다. 최적해의 값만 필요하다면 4단계는 생략해도 괜찮습니다. 4단계를 수행할 때는 3단계가 수행되는 동안 추가적인 정보를 관리해야하는 경우도 있습니다.
 
-이번 장에서는 동적 프로그래밍을 이용해 최적화 문제를 해결하는 방법에 대해 알아보겠습니다. [[Rod cutting|15.1]] 절에서는 막대를 잘라서 전체 값을 최대화하는 문제를 다룹니다. [[Matrix-chain multiplication|15.2]] 절에서는 행렬을 여러 개 곱할 때 스칼라 곱의 최소 횟수를 구하는 방법을 알아봅니다. [[Elements of dynamic programming|15.3]] 절에서는 동적 프로그래밍에서 
-
-[[Longest common subsequence|15.4]]
-
-[[Optimal binary search trees|15.5]]
+이번 장에서는 동적 프로그래밍을 이용해 최적화 문제를 해결하는 방법에 대해 알아보겠습니다. [[Rod cutting|15.1]] 절에서는 막대를 잘라서 전체 값을 최대화하는 문제를 다룹니다. [[Matrix-chain multiplication|15.2]] 절에서는 행렬을 여러 개 곱할 때 스칼라 곱의 최소 횟수를 구하는 방법을 알아봅니다. [[Elements of dynamic programming|15.3]] 절에서는 동적 프로그래밍이 실행 가능한 기술이 되기 위해 문제가 갖추어야 할 두 가지 주요 특성에 대해 설명합니다. [[Longest common subsequence|15.4]] 절에서는 동적 프로그래밍을 이용해서 두 개의 수열에서 가장 긴 공통 부분 수열을 찾는 방법을 알아봅니다. [[Optimal binary search trees|15.5]] 절에서는 검색할 키의 분포 정보가 주어졌을 때, 동적 프로그래밍을 이용해서 최적의 이진 탐색 트리를 구성하는 방법을 알아봅니다.
 
 [[Problems]]
 
-#Algorithm 
+#Algorithm #DP 
 
 [^Dynamic Programming]: 여기서 '프로그래밍'은 컴퓨터 코드를 작성하는 것이 아닌 표 형식의 방법론을 의미합니다.
