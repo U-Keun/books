@@ -149,7 +149,8 @@
   },
   "active": "07f649e5ace71030",
   "lastOpenFiles": [
-    "Introduction to Algorithms/무제 폴더",
+    "Introduction to Algorithms/Advanced Design and Analysis Techniques/Dynamic Programming",
+    "Introduction to Algorithms/Advanced Design and Analysis Techniques",
     "Introduction to Algorithms",
     "토비의 스프링 3.1/Vol. 1/3장/JDBC 전략 패턴의 최적화.md",
     "토비의 스프링 3.1/Vol. 1/3장/템플릿.md",
@@ -193,7 +194,6 @@
     "Effective Java/9장. 일반적인 프로그래밍 원칙",
     "Effective Java/8장. 메서드",
     "Effective Java/7장. 람다와 스트림",
-    "Effective Java/6장. 열거 타입과 애너테이션",
-    "Effective Java/5장. 제네릭"
+    "Effective Java/6장. 열거 타입과 애너테이션"
   ]
 }
