@@ -82,7 +82,7 @@ Memoized-Cut-Rod-Aux(p, n, r)
 	if n == 0 // 초기값
 		q = 0
 	else q = - ∞
-		for i = 1 to n // 기존 수식 구현
+		for i = 1 to n // 재귀 호출로 계산
 			q = max(q, p[i] + Memoized-Cut-Rod-Aux(p, n - i, r))
 	r[n] = q // 현재 값을 메모 배열에 저장
 	return q
@@ -97,7 +97,7 @@ Bottom-Up-Cut-Rod(p, n)
 		q = - ∞
 		for i = 1 to j // 길이 j 보다 작은 경우에 대해서만 고려한다.
 			q = max(q, p[i] + r[j - i])
-		r[j] = q
+		r[j] = q // 현재 값을 메모 배열에 저장
 	return r[n]
 ```
 
