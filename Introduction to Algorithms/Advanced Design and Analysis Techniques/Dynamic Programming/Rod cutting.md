@@ -113,8 +113,30 @@ Bottom-Up-Cut-Rod(p, n)
 ###### 해 재구성하기
 지금까지 알아본 막대 자르기 문제의 동적 프로그래밍 코드는 최대 수익을 반환하지만, 막대를 어떤 크기로 잘랐는지를 반환하지는 않습니다. 최대 수익을 계산하는 것 뿐만 아니라, 막대를 어떻게 잘랐는지도 기록할 수 있습니다. 
 
-다음은 `Bottom-Up-Cut-Rod()` 함수의 확장된 버전입니다. 각 막대 크기 $j$에 대해, 최대 수익 $r_j$와 
+다음은 `Bottom-Up-Cut-Rod()` 함수의 확장된 버전입니다. 각 막대 크기 $j$에 대해, 최대 수익 $r_j$와 최적 수익을 내도록 잘라내는 첫 번째 조각의 크기인 $s_j$를 기록합니다.
+```pseudo
+Extended-Bottom-Up-Cut-Rod(p, n)
+let r[0 .. n] and s[0 .. n] be new arrays
+r[0] = 0
+for j = 1 to n
+	q = - ∞
+	for i = 1 to j
+		if q < p[i] + r[j - i] // 수정된 부분
+			q = p[i] + r[j - i]
+			s[j] = i
+			// 길이 j인 막대의 수익을 최적화하기 위해 자른 첫 번째 막대의 길이 i
+	r[j] = q
+return r and s
+```
 
+위의 코드에서 반환된 배열 `s`를 이용해서 막대를 어떤 크기로 잘랐는지를 추적할 수 있습니다.
+```pseudo
+Print-Cut-Rod-Solution(p, n)
+(r, s) = Extended-Bottom-Up-Cut-Rod(p, n)
+while n > 0
+	print s[n]
+	n = n - s[n]
+```
 
 - 백준 문제
 	- [카드 구매하기](https://www.acmicpc.net/problem/11052)
