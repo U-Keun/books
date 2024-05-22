@@ -91,11 +91,11 @@ Memoized-Cut-Rod-Aux(p, n, r)
 다음은 상향식 동적 프로그래밍 방식을 적용한 의사 코드입니다:
 ```pseudo
 Bottom-Up-Cut-Rod(p, n)
-	let r[0 .. n] be a new array
-	r[0] = 0
+	let r[0 .. n] be a new array // 메모 배열
+	r[0] = 0 // 초기값 - 길이 0인 막대의 최적해는 0
 	for j = 1 to n
 		q = - ∞
-		for i = 1 to j
+		for i = 1 to j // 길이 j 보다 작은 경우에 대해서만 고려한다.
 			q = max(q, p[i] + r[j - i])
 		r[j] = q
 	return r[n]
