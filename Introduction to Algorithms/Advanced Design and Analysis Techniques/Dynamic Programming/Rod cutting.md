@@ -71,7 +71,6 @@ $$T(n) = 1 + \sum_{j = 0}^{n - 1} T(j).$$
 - 백준 문제
 	- [카드 구매하기](https://www.acmicpc.net/problem/11052)
 	- [카드 구매하기 2](https://www.acmicpc.net/problem/16194)
-	- 
 
 #Algorithm #DP 
 
