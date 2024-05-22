@@ -38,9 +38,14 @@ $$r_n = \max_{1\le i\le n}(p_i + r_{n - i}).$$
 아래의 의사 코드는 위의 식을 그대로 구현한 것입니다.
 ```pseudo
 function Cut-Rod(p, n):
-	
-
+	if n == 0
+		return 0
+	q = - ∞
+	for i = 1 to n
+		q = max(q, p[i] + Cut-Rod(p, n - i))
+	return q
 ```
+
 
 - 백준 문제
 	- [카드 구매하기](https://www.acmicpc.net/problem/11052)
