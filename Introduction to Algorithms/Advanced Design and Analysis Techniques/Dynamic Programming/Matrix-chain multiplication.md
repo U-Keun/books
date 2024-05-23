@@ -37,6 +37,7 @@ P(n)= \begin{cases}
 \displaystyle\sum_{k = 1}^{n - 1} P(k)P(n - k) &\ \mbox{if } n\ge2.
 \end{cases}
 $$
+실제로 수열 $P(n)$은 *Catalan 수*입니다. 이것은 $\Omega(4^n / n^{3/2})$의 
 
 
 #Algorithm #DP
