@@ -26,7 +26,7 @@ public class AddStatement implements StatementStrategy {
 ###### 로컬 클래스
 클래스 파일이 많아지는 것은 내부 클래스로 정의하는 것으로 방지할 수 있다. 기존에 만들었던 `DeleteAllStatement`, `AddStatement` 클래스는 `UserDao`에서만 사용된다. 그러면 다음과 같이 로컬 클래스로 만들어서 특정 메서드에서만 사용하도록 코드를 작성할 수 있다.
 ```java
-public void add(User user) throws SQLException {
+public void add(final User user) throws SQLException {
 	class AddStatement implements StatementStrategy {
 		// User user;
 
@@ -43,12 +43,30 @@ public void add(User user) throws SQLException {
 			return ps;
 		}
 
-		StatementStrategy st = new AddStatement(user);
+		StatementStrategy st = new AddStatement();
 		jdbcContextWithStatementStrategy(st);
 	}
 }
 ```
 
-`AddStatement` 클래스는 로컬 클래스로 정의되어 있다. 이것은 `AddStatement` 객체가 사용될 곳이 `add()` 메서드뿐이라면, 위와 같은 방식으로 사용하기 전에 바로 정의해서 쓸 수 있다. 그러면 클래스 파일도 하나 줄고, 자신이 선언된 곳의 정보에 직접 접근할 수 있다. 
+이렇게 하면 클래스 파일도 하나 줄고, 자신이 선언된 곳의 정보에 직접 접근할 수 있기 때문에 `AddStatement` 클래스를 생성할 때 생성자를 통해 `User` 객체를 전달해줄 필요가 없다. `add()` 메서드에 매개변수로 주어지는 `user` 객체를 로컬 변수로 사용할 수 있기 때문이다. 추가로, `user` 객체가 메서드 내부에서 변경될 일이 없으므로 `final`로 선언해 두었다.
+###### 익명 내부 클래스
+내부 클래스를 작성하는 대신 익명 내부 클래스를 사용해서 위의 코드를 수정해보자.
+```java
+public void add(final User user) throws SQLException {
+	jdbcContextWithStatementStrategy(
+		StatementStrategy st = new StatementStrategy() {
+			public PreparedStatement makePreparedStatement(Connection c) throws SQLException {
+				PreparedStatement ps = c.prepareStatement("insert into users(id, name, password) values(?,?,?)");
+				ps.setString(1, user.getId());
+				ps.setString(2, user.getName());
+				ps.setString(3, user.getPassword());
+	
+				return ps;
+			}
+		}
+	);
+}
+```
 
 #TobySpring #Spring 
