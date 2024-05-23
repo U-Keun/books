@@ -49,5 +49,6 @@ public void add(User user) throws SQLException {
 }
 ```
 
+`AddStatement` 클래스는 로컬 클래스로 정의되어 있다. 이것은 `AddStatement` 객체가 사용될 곳이 `add()` 메서드뿐이라면, 위와 같은 방식으로 사용하기 전에 바로 정의해서 쓸 수 있다. 그러면 클래스 파일도 하나 줄고, 자신이 선언된 곳의 정보에 직접 접근할 수 있다. 
 
 #TobySpring #Spring 

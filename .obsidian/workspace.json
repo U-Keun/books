@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction to Algorithms/Advanced Design and Analysis Techniques/Dynamic Programming/Matrix-chain multiplication.md",
+                "file": "토비의 스프링 3.1/Vol. 1/3장/JDBC 전략 패턴의 최적화.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction to Algorithms/Advanced Design and Analysis Techniques/Dynamic Programming/Matrix-chain multiplication.md",
+                "file": "토비의 스프링 3.1/Vol. 1/3장/JDBC 전략 패턴의 최적화.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction to Algorithms/Advanced Design and Analysis Techniques/Dynamic Programming/Matrix-chain multiplication.md",
+                "file": "토비의 스프링 3.1/Vol. 1/3장/JDBC 전략 패턴의 최적화.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduction to Algorithms/Advanced Design and Analysis Techniques/Dynamic Programming/Matrix-chain multiplication.md"
+                "file": "토비의 스프링 3.1/Vol. 1/3장/JDBC 전략 패턴의 최적화.md"
               }
             }
           }
@@ -150,8 +150,10 @@
   },
   "active": "3761897743a72878",
   "lastOpenFiles": [
-    "Introduction to Algorithms/Advanced Design and Analysis Techniques/Dynamic Programming/Rod cutting.md",
+    "토비의 스프링 3.1/Vol. 1/3장/템플릿.md",
+    "토비의 스프링 3.1/Vol. 1/3장/변하는 것과 변하지 않는 것.md",
     "Introduction to Algorithms/Advanced Design and Analysis Techniques/Dynamic Programming/Matrix-chain multiplication.md",
+    "Introduction to Algorithms/Advanced Design and Analysis Techniques/Dynamic Programming/Rod cutting.md",
     "Introduction to Algorithms/Advanced Design and Analysis Techniques/Dynamic Programming/Dynamic Programming.md",
     "Introduction to Algorithms/Advanced Design and Analysis Techniques/Dynamic Programming/Problems.md",
     "Introduction to Algorithms/Advanced Design and Analysis Techniques/Dynamic Programming/Optimal binary search trees.md",
@@ -162,8 +164,6 @@
     "Introduction to Algorithms/Advanced Design and Analysis Techniques",
     "Introduction to Algorithms",
     "토비의 스프링 3.1/Vol. 1/3장/JDBC 전략 패턴의 최적화.md",
-    "토비의 스프링 3.1/Vol. 1/3장/템플릿.md",
-    "토비의 스프링 3.1/Vol. 1/3장/변하는 것과 변하지 않는 것.md",
     "images/스크린샷 2024-05-20 오후 3.10.52.png",
     "토비의 스프링 3.1/Vol. 1/3장/다시 보는 초난감 DAO.md",
     "Database Internals/Part 1/Chapter 3/Motivation.md",
