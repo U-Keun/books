@@ -1,0 +1,30 @@
+다음으로 볼 동적 프로그래밍 알고리즘 예제는 행렬의 연쇄 곱에 관한 문제입니다. $n$개의 행렬 $A_1, A_2, \dots, A_n$을 다음의 식과 같이 계산하는 상황을 생각해 보겠습니다:
+$$A_1 A_2 \cdots A_n.$$
+행렬의 곱 연산은 결합 법칙이 성립하기 때문에 괄호를 이용해 행렬을 적당히 묶어서 계산하는 순서를 지정할 수 있습니다. 예를 들어, 4개의 행렬 $A_1, A_2, A_3, A_4$에 대해서는 연쇄 곱을 계산하는 서로 다른 방법이 5가지 있습니다:
+$$\begin{align}
+(A_1(A_2(A_3 A_4))),\\
+(A_1((A_2 A_3)A_4)),\\
+((A_1 A_2)(A_3 A_4)),\\
+((A_1(A_2 A_3))A_4),\\
+(((A_1 A_2)A_3)A_4).
+\end{align}$$
+위와 같은 여러 가지 방법 중 어떤 순서로 행렬을 곱해야 행렬의 연쇄 곱을 계산하는 비용을 최적화할 수 있을지 알아볼 것입니다. 먼저 두 개의 행렬의 곱에 대한 계산 비용을 생각해 보겠습니다. 행렬 곱에 대한 표준 알고리즘은 다음의 의사 코드에 나와있습니다.
+```pseudo
+Matrix-Multiply(A, B)
+if A.columns != B.rows
+	error "incompatible dimensions"
+else let C be a ne A.rows * B.columns matrix
+	for i = 1 to A.rows \\ p번
+		for j = 1 to B.columns \\ r번
+			C[i][j] = 0
+			for k = 1 to A.columns \\ q번
+				C[i][j] = C[i][j] + A[i][k] * B[k][j]
+	return C
+```
+
+두 행렬 $A$, $B$에 대해 $AB$를 계산하려면 행렬 $A$의 열의 개수와 행렬 $B$의 해의 개수가 같아야 합니다.[^1] $A$가 $p \times q$ 행렬이고, $B$가 $q \times r$ 행렬이라고 가정하면, 위의 함수로 반환되는 $C$는 $p \times r$ 행렬입니다. 그리고 $C$를 계산하는데 드는 시간은 $pqr$에 비례합니다. 
+
+
+#Algorithm #DP
+
+[^1]: 이런 경우 두 행렬 $A$, $B$가 *compatible*하다고 부릅니다.
