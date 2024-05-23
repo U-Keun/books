@@ -86,6 +86,10 @@ for l = 2 to n
 return m ans s
 ```
 
+- 백준 문제
+	- [행렬 곱셈 순서](https://www.acmicpc.net/problem/11049)
+	- 
+
  #Algorithm #DP
 
 [^1]: 이런 경우 두 행렬 $A$, $B$가 *compatible*하다고 부릅니다.
