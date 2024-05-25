@@ -69,5 +69,15 @@ public void add(final User user) throws SQLException {
 }
 ```
 
+`DeleteAllStatement`도 `deleteAll()` 메서드로 가져와서 익명 내부 클래스로 다음과 같이 처리할 수 있다.
+```java
+public void deleteAll() throws SQLException {
+	jdbcContextWithStatementStrategy(new StatementStrategy) {
+		public PreparedStatement makePreparedStatement(Connection c) throws SQLException {
+			return c.prepareStatement("delete from users");
+		}
+	}
+}
+```
 
 #TobySpring #Spring 

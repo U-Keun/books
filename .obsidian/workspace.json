@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "토비의 스프링 3.1/Vol. 1/3장/JDBC 전략 패턴의 최적화.md",
+                "file": "토비의 스프링 3.1/Vol. 1/3장/컨텍스트와 DI.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "토비의 스프링 3.1/Vol. 1/3장/JDBC 전략 패턴의 최적화.md",
+                "file": "토비의 스프링 3.1/Vol. 1/3장/컨텍스트와 DI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "토비의 스프링 3.1/Vol. 1/3장/JDBC 전략 패턴의 최적화.md",
+                "file": "토비의 스프링 3.1/Vol. 1/3장/컨텍스트와 DI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "토비의 스프링 3.1/Vol. 1/3장/JDBC 전략 패턴의 최적화.md"
+                "file": "토비의 스프링 3.1/Vol. 1/3장/컨텍스트와 DI.md"
               }
             }
           }
@@ -150,11 +150,11 @@
   },
   "active": "3761897743a72878",
   "lastOpenFiles": [
+    "토비의 스프링 3.1/Vol. 1/3장/템플릿.md",
+    "토비의 스프링 3.1/Vol. 1/3장/JDBC 전략 패턴의 최적화.md",
     "Introduction to Algorithms/Advanced Design and Analysis Techniques/Dynamic Programming/Dynamic Programming.md",
     "Introduction to Algorithms/Advanced Design and Analysis Techniques/Dynamic Programming/Rod cutting.md",
     "Introduction to Algorithms/Advanced Design and Analysis Techniques/Dynamic Programming/Matrix-chain multiplication.md",
-    "토비의 스프링 3.1/Vol. 1/3장/JDBC 전략 패턴의 최적화.md",
-    "토비의 스프링 3.1/Vol. 1/3장/템플릿.md",
     "토비의 스프링 3.1/Vol. 1/3장/변하는 것과 변하지 않는 것.md",
     "Introduction to Algorithms/Advanced Design and Analysis Techniques/Dynamic Programming/Problems.md",
     "Introduction to Algorithms/Advanced Design and Analysis Techniques/Dynamic Programming/Optimal binary search trees.md",
