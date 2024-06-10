@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4942f26f2c817dea",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction to Algorithms/Advanced Design and Analysis Techniques/Greedy Algorithms/Elements of the greedy strategy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction to Algorithms/Advanced Design and Analysis Techniques/Greedy Algorithms/Elements of the greedy strategy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Introduction to Algorithms/Advanced Design and Analysis Techniques/Greedy Algorithms/Elements of the greedy strategy.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,7 +153,7 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "3761897743a72878",
+  "active": "4942f26f2c817dea",
   "lastOpenFiles": [
     "Introduction to Algorithms/Advanced Design and Analysis Techniques/Greedy Algorithms/Elements of the greedy strategy.md",
     "Effective Java/4장. 클래스와 인터페이스/아이템 20.md",
