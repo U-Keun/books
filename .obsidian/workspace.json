@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction to Algorithms/Advanced Design and Analysis Techniques/Dynamic Programming/Elements of dynamic programming.md",
+                "file": "Introduction to Algorithms/Advanced Design and Analysis Techniques/Greedy Algorithms/Elements of the greedy strategy.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction to Algorithms/Advanced Design and Analysis Techniques/Dynamic Programming/Elements of dynamic programming.md",
+                "file": "Introduction to Algorithms/Advanced Design and Analysis Techniques/Greedy Algorithms/Elements of the greedy strategy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction to Algorithms/Advanced Design and Analysis Techniques/Dynamic Programming/Elements of dynamic programming.md",
+                "file": "Introduction to Algorithms/Advanced Design and Analysis Techniques/Greedy Algorithms/Elements of the greedy strategy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduction to Algorithms/Advanced Design and Analysis Techniques/Dynamic Programming/Elements of dynamic programming.md"
+                "file": "Introduction to Algorithms/Advanced Design and Analysis Techniques/Greedy Algorithms/Elements of the greedy strategy.md"
               }
             }
           }
@@ -150,10 +150,14 @@
   },
   "active": "3761897743a72878",
   "lastOpenFiles": [
-    "Introduction to Algorithms/Advanced Design and Analysis Techniques/Dynamic Programming/Rod cutting.md",
-    "Introduction to Algorithms/Advanced Design and Analysis Techniques/Dynamic Programming/Elements of dynamic programming.md",
-    "Introduction to Algorithms/Advanced Design and Analysis Techniques/Dynamic Programming/Dynamic Programming.md",
+    "Introduction to Algorithms/Advanced Design and Analysis Techniques/Greedy Algorithms/Elements of the greedy strategy.md",
+    "Effective Java/4장. 클래스와 인터페이스/아이템 20.md",
+    "Introduction to Algorithms/Advanced Design and Analysis Techniques/Greedy Algorithms",
+    "Effective Java/4장. 클래스와 인터페이스/아이템 17.md",
     "Introduction to Algorithms/Advanced Design and Analysis Techniques/Dynamic Programming/Matrix-chain multiplication.md",
+    "Introduction to Algorithms/Advanced Design and Analysis Techniques/Dynamic Programming/Dynamic Programming.md",
+    "Introduction to Algorithms/Advanced Design and Analysis Techniques/Dynamic Programming/Elements of dynamic programming.md",
+    "Introduction to Algorithms/Advanced Design and Analysis Techniques/Dynamic Programming/Rod cutting.md",
     "토비의 스프링 3.1/Vol. 1/3장/컨텍스트와 DI.md",
     "토비의 스프링 3.1/Vol. 1/3장/템플릿.md",
     "토비의 스프링 3.1/Vol. 1/3장/변하는 것과 변하지 않는 것.md",
@@ -178,9 +182,6 @@
     "Database Internals/Part 1/Chapter 3/Managing Variable-Size Data.md",
     "Database Internals/Part 1/Chapter 3/Combining Cells into Slotted Pages.md",
     "Database Internals/Part 1/Chapter 3/Cell Layout.md",
-    "Database Internals/Part 1/Chapter 3/Slotted Pages.md",
-    "Database Internals/Part 1/Chapter 3/Page Structure.md",
-    "Database Internals/Part 1/Chapter 3/General Principles.md",
     "Database Internals/Part 1/Chapter 3",
     "images/스크린샷 2024-05-18 오전 8.36.09.png",
     "images/스크린샷 2024-05-18 오전 8.13.51.png",
@@ -194,7 +195,6 @@
     "images",
     "images 복사본",
     "Effective Java/9장. 일반적인 프로그래밍 원칙",
-    "Effective Java/8장. 메서드",
-    "Effective Java/7장. 람다와 스트림"
+    "Effective Java/8장. 메서드"
   ]
 }
