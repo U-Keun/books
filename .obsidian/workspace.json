@@ -4,31 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "5da6292028481cf6",
-        "type": "tabs",
+        "id": "aa2f22d3ebcf5eb6",
+        "type": "split",
         "children": [
           {
-            "id": "3761897743a72878",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Introduction to Algorithms/Advanced Design and Analysis Techniques/Greedy Algorithms/Elements of the greedy strategy.md",
-                "mode": "source",
-                "source": false
+            "id": "5da6292028481cf6",
+            "type": "tabs",
+            "dimension": 60.782442748091604,
+            "children": [
+              {
+                "id": "3761897743a72878",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Introduction to Algorithms/Advanced Design and Analysis Techniques/Greedy Algorithms/Elements of the greedy strategy.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
           },
           {
-            "id": "4942f26f2c817dea",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
+            "id": "f1574b6ebd1078aa",
+            "type": "tabs",
+            "dimension": 39.217557251908396,
+            "children": [
+              {
+                "id": "4924d3083d0064e1",
+                "type": "leaf",
+                "state": {
+                  "type": "custom-frames-chatgpt",
+                  "state": {}
+                }
+              }
+            ]
           }
         ],
-        "currentTab": 1
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -95,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Introduction to Algorithms/Advanced Design and Analysis Techniques/Greedy Algorithms/Elements of the greedy strategy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Introduction to Algorithms/Advanced Design and Analysis Techniques/Greedy Algorithms/Elements of the greedy strategy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,10 +148,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Introduction to Algorithms/Advanced Design and Analysis Techniques/Greedy Algorithms/Elements of the greedy strategy.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -153,7 +172,7 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "4942f26f2c817dea",
+  "active": "4924d3083d0064e1",
   "lastOpenFiles": [
     "Introduction to Algorithms/Advanced Design and Analysis Techniques/Greedy Algorithms/Elements of the greedy strategy.md",
     "Effective Java/4장. 클래스와 인터페이스/아이템 20.md",
