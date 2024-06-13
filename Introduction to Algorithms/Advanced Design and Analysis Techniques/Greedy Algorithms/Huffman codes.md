@@ -24,6 +24,6 @@ prefix code는 디코딩도 단순합니다. 임의의 이진 코드는 다른 �
 </p>
 ![[스크린샷 2024-06-13 오후 3.09.14.png|center|400]]
 
-파일에 대한 최적의 코드는 
+파일에 대한 최적의 코드는 *정 이진 트리*[^full binary tree]로 표현됩니다. 
 
 #Algorithm #GreedyAlgorithm 
