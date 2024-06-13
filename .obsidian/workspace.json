@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Introduction to Algorithms/Advanced Design and Analysis Techniques/Greedy Algorithms/Elements of the greedy strategy.md",
+                    "file": "Introduction to Algorithms/Advanced Design and Analysis Techniques/Greedy Algorithms/Huffman codes.md",
                     "mode": "source",
                     "source": false
                   }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction to Algorithms/Advanced Design and Analysis Techniques/Greedy Algorithms/Elements of the greedy strategy.md",
+                "file": "Introduction to Algorithms/Advanced Design and Analysis Techniques/Greedy Algorithms/Huffman codes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction to Algorithms/Advanced Design and Analysis Techniques/Greedy Algorithms/Elements of the greedy strategy.md",
+                "file": "Introduction to Algorithms/Advanced Design and Analysis Techniques/Greedy Algorithms/Huffman codes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduction to Algorithms/Advanced Design and Analysis Techniques/Greedy Algorithms/Elements of the greedy strategy.md"
+                "file": "Introduction to Algorithms/Advanced Design and Analysis Techniques/Greedy Algorithms/Huffman codes.md"
               }
             }
           }
@@ -172,9 +172,10 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "4924d3083d0064e1",
+  "active": "3761897743a72878",
   "lastOpenFiles": [
     "Introduction to Algorithms/Advanced Design and Analysis Techniques/Greedy Algorithms/Elements of the greedy strategy.md",
+    "Introduction to Algorithms/Advanced Design and Analysis Techniques/Greedy Algorithms/Huffman codes.md",
     "Effective Java/4장. 클래스와 인터페이스/아이템 20.md",
     "Introduction to Algorithms/Advanced Design and Analysis Techniques/Greedy Algorithms",
     "Effective Java/4장. 클래스와 인터페이스/아이템 17.md",
@@ -205,7 +206,6 @@
     "Database Internals/Part 1/Chapter 3/Versioning.md",
     "Database Internals/Part 1/Chapter 3/Managing Variable-Size Data.md",
     "Database Internals/Part 1/Chapter 3/Combining Cells into Slotted Pages.md",
-    "Database Internals/Part 1/Chapter 3/Cell Layout.md",
     "Database Internals/Part 1/Chapter 3",
     "images/스크린샷 2024-05-18 오전 8.36.09.png",
     "images/스크린샷 2024-05-18 오전 8.13.51.png",
