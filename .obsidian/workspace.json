@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Introduction to Algorithms/Advanced Design and Analysis Techniques/Greedy Algorithms/Huffman codes.md",
+                    "file": "Introduction to Algorithms/Elementary Graph Algorithms/Elementary Graph Algorithms.md",
                     "mode": "source",
                     "source": false
                   }
@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5,
-    "collapsed": true
+    "width": 271.5
   },
   "right": {
     "id": "2545cf5b8a19dcc4",
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction to Algorithms/Advanced Design and Analysis Techniques/Greedy Algorithms/Huffman codes.md",
+                "file": "Introduction to Algorithms/Elementary Graph Algorithms/Elementary Graph Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction to Algorithms/Advanced Design and Analysis Techniques/Greedy Algorithms/Huffman codes.md",
+                "file": "Introduction to Algorithms/Elementary Graph Algorithms/Elementary Graph Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduction to Algorithms/Advanced Design and Analysis Techniques/Greedy Algorithms/Huffman codes.md"
+                "file": "Introduction to Algorithms/Elementary Graph Algorithms/Elementary Graph Algorithms.md"
               }
             }
           }
@@ -174,6 +173,14 @@
   },
   "active": "3761897743a72878",
   "lastOpenFiles": [
+    "Introduction to Algorithms/Elementary Graph Algorithms/Strongly connected components.md",
+    "Introduction to Algorithms/Elementary Graph Algorithms/Topological sort.md",
+    "Introduction to Algorithms/Elementary Graph Algorithms/Depth-first search.md",
+    "Introduction to Algorithms/Elementary Graph Algorithms/Breadth-first search.md",
+    "Introduction to Algorithms/Elementary Graph Algorithms/Representations of graphs.md",
+    "Introduction to Algorithms/Elementary Graph Algorithms/Elementary Graph Algorithms.md",
+    "Introduction to Algorithms/Advanced Design and Analysis Techniques/Greedy Algorithms/Huffman codes.md",
+    "Introduction to Algorithms/Elementary Graph Algorithms",
     "Database Internals/Part 1/Chapter 2/Disk-Based Structures.md",
     "Database Internals/Part 1/Storage Engines.md",
     "Database Internals/Part 1/Chapter 3/Managing Variable-Size Data.md",
@@ -188,7 +195,6 @@
     "토비의 스프링 3.1/Vol. 1/3장/스프링의 JDBCTEMPLATE.md",
     "Introduction to Algorithms/Advanced Design and Analysis Techniques/Dynamic Programming/Dynamic Programming.md",
     "Introduction to Algorithms/Advanced Design and Analysis Techniques/Dynamic Programming/Elements of dynamic programming.md",
-    "Introduction to Algorithms/Advanced Design and Analysis Techniques/Greedy Algorithms/Huffman codes.md",
     "images/스크린샷 2024-06-13 오후 3.09.14.png",
     "Introduction to Algorithms/Advanced Design and Analysis Techniques/Greedy Algorithms/Elements of the greedy strategy.md",
     "Effective Java/4장. 클래스와 인터페이스/아이템 20.md",
@@ -196,16 +202,10 @@
     "Effective Java/4장. 클래스와 인터페이스/아이템 17.md",
     "Introduction to Algorithms/Advanced Design and Analysis Techniques/Dynamic Programming/Matrix-chain multiplication.md",
     "Introduction to Algorithms/Advanced Design and Analysis Techniques/Dynamic Programming/Rod cutting.md",
-    "토비의 스프링 3.1/Vol. 1/3장/템플릿.md",
-    "Introduction to Algorithms/Advanced Design and Analysis Techniques/Dynamic Programming/Problems.md",
-    "Introduction to Algorithms/Advanced Design and Analysis Techniques/Dynamic Programming/Optimal binary search trees.md",
-    "Introduction to Algorithms/Advanced Design and Analysis Techniques/Dynamic Programming/Longest common subsequence.md",
-    "README.md",
     "Introduction to Algorithms/Advanced Design and Analysis Techniques/Dynamic Programming",
     "Introduction to Algorithms/Advanced Design and Analysis Techniques",
     "Introduction to Algorithms",
     "images/스크린샷 2024-05-20 오후 3.10.52.png",
-    "토비의 스프링 3.1/Vol. 1/3장/다시 보는 초난감 DAO.md",
     "images/스크린샷 2024-05-19 오전 8.36.20.png",
     "Database Internals/Part 1/Chapter 3",
     "images/스크린샷 2024-05-18 오전 8.36.09.png",
@@ -218,7 +218,6 @@
     "images/스크린샷 2024-05-10 오후 5.01.04.png",
     "images",
     "images 복사본",
-    "Effective Java/9장. 일반적인 프로그래밍 원칙",
-    "Effective Java/8장. 메서드"
+    "Effective Java/9장. 일반적인 프로그래밍 원칙"
   ]
 }
