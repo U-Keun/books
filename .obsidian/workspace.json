@@ -4,45 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "aa2f22d3ebcf5eb6",
-        "type": "split",
+        "id": "5da6292028481cf6",
+        "type": "tabs",
         "children": [
           {
-            "id": "5da6292028481cf6",
-            "type": "tabs",
-            "dimension": 60.782442748091604,
-            "children": [
-              {
-                "id": "3761897743a72878",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Introduction to Algorithms/Elementary Graph Algorithms/Representations of graphs.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "3761897743a72878",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introduction to Algorithms/Elementary Graph Algorithms/Representations of graphs.md",
+                "mode": "source",
+                "source": false
               }
-            ]
-          },
-          {
-            "id": "f1574b6ebd1078aa",
-            "type": "tabs",
-            "dimension": 39.217557251908396,
-            "children": [
-              {
-                "id": "4924d3083d0064e1",
-                "type": "leaf",
-                "state": {
-                  "type": "custom-frames-chatgpt",
-                  "state": {}
-                }
-              }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
