@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction to Algorithms/Elementary Graph Algorithms/Representations of graphs.md",
+                "file": "Introduction to Algorithms/Elementary Graph Algorithms/Breadth-first search.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction to Algorithms/Elementary Graph Algorithms/Representations of graphs.md",
+                "file": "Introduction to Algorithms/Elementary Graph Algorithms/Breadth-first search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction to Algorithms/Elementary Graph Algorithms/Representations of graphs.md",
+                "file": "Introduction to Algorithms/Elementary Graph Algorithms/Breadth-first search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduction to Algorithms/Elementary Graph Algorithms/Representations of graphs.md"
+                "file": "Introduction to Algorithms/Elementary Graph Algorithms/Breadth-first search.md"
               }
             }
           }
@@ -152,11 +152,11 @@
   "active": "3761897743a72878",
   "lastOpenFiles": [
     "Introduction to Algorithms/Elementary Graph Algorithms/Elementary Graph Algorithms.md",
+    "Introduction to Algorithms/Elementary Graph Algorithms/Representations of graphs.md",
     "Introduction to Algorithms/Elementary Graph Algorithms/Strongly connected components.md",
     "Introduction to Algorithms/Elementary Graph Algorithms/Topological sort.md",
     "Introduction to Algorithms/Elementary Graph Algorithms/Depth-first search.md",
     "Introduction to Algorithms/Elementary Graph Algorithms/Breadth-first search.md",
-    "Introduction to Algorithms/Elementary Graph Algorithms/Representations of graphs.md",
     "Introduction to Algorithms/Advanced Design and Analysis Techniques/Greedy Algorithms/Huffman codes.md",
     "Introduction to Algorithms/Elementary Graph Algorithms",
     "Database Internals/Part 1/Chapter 2/Disk-Based Structures.md",
