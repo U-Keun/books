@@ -54,7 +54,11 @@ while Q != empty
 
 >Proof.
 > 먼저 $v = s$인 경우, $s.d = 0 = \delta(s,s)$이므로 성립하고, $s$에서 $v$로 가는 경로가 없는 경우에는 $v.d = \infty$로 설정해 두었기 때문에 $v.d \ge \delta(s,v)$이다.
-> 어떤 노드 $u$에 대해 $u.d \ge \delta(s,u)$가 성립한다고 가정하고, $u$와 간선으로 연결된 노드 $v$를 생각해보자. 전제 22.1에 의해 
+> 어떤 노드 $u$에 대해 $u.d \ge \delta(s,u)$가 성립한다고 가정하고, $u$와 간선으로 연결된 노드 $v$를 생각해보자. 의사 코드의 `v.d = u.d + 1` 부분에 대해서는 전제 22.1에 의해 아래의 식이 성립한다.
+>$$\begin{aligned}v.d &= u.d + 1 \\ &\ge\delta(s,u) + 1\\ &\ge\delta(s,v)\end{aligned}$$
+> 따라서 귀납법에 의해 증명이 완료된다.
+
+
 
 
 #Graph #BFS
