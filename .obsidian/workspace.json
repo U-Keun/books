@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction to Algorithms/Elementary Graph Algorithms/Breadth-first search.md",
+                "file": "Introduction to Algorithms/Elementary Graph Algorithms/Representations of graphs.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction to Algorithms/Elementary Graph Algorithms/Breadth-first search.md",
+                "file": "Introduction to Algorithms/Elementary Graph Algorithms/Representations of graphs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction to Algorithms/Elementary Graph Algorithms/Breadth-first search.md",
+                "file": "Introduction to Algorithms/Elementary Graph Algorithms/Representations of graphs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduction to Algorithms/Elementary Graph Algorithms/Breadth-first search.md"
+                "file": "Introduction to Algorithms/Elementary Graph Algorithms/Representations of graphs.md"
               }
             }
           }
@@ -151,12 +151,12 @@
   },
   "active": "3761897743a72878",
   "lastOpenFiles": [
+    "Introduction to Algorithms/Elementary Graph Algorithms/Elementary Graph Algorithms.md",
+    "Introduction to Algorithms/Elementary Graph Algorithms/Breadth-first search.md",
     "Introduction to Algorithms/Advanced Design and Analysis Techniques/Dynamic Programming/Dynamic Programming.md",
     "Introduction to Algorithms/Advanced Design and Analysis Techniques/Dynamic Programming/Elements of dynamic programming.md",
     "Introduction to Algorithms/Advanced Design and Analysis Techniques/Dynamic Programming/Longest common subsequence.md",
     "Introduction to Algorithms/Advanced Design and Analysis Techniques/Dynamic Programming/Matrix-chain multiplication.md",
-    "Introduction to Algorithms/Elementary Graph Algorithms/Breadth-first search.md",
-    "Introduction to Algorithms/Elementary Graph Algorithms/Elementary Graph Algorithms.md",
     "Introduction to Algorithms/Elementary Graph Algorithms/Representations of graphs.md",
     "Introduction to Algorithms/Elementary Graph Algorithms/Strongly connected components.md",
     "Introduction to Algorithms/Elementary Graph Algorithms/Topological sort.md",
