@@ -13,7 +13,7 @@
 BFS(G, s)
 for each vertex u in G.V - {s}
 	u.color = white
-	u.d = 
+	u.d = ∞
 	u.p = NIL
 s.color = gray
 s.d = 0
