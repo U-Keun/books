@@ -58,7 +58,7 @@ while Q != empty
 >$$\begin{aligned}v.d &= u.d + 1 \\ &\ge\delta(s,u) + 1\\ &\ge\delta(s,v)\end{aligned}$$
 > 따라서 귀납법에 의해 증명이 완료된다.
 
-모든 시점에서 큐가 최대 두 개의 서로 다른 d 값을 가진다는 것을 보여줍니다.
+모든 시점에서 큐가 최대 두 개의 서로 다른 d 값을 가진다는 것을 보여줍니다. 
 
 
 #Graph #BFS
