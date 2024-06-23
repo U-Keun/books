@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c7e22b2cf681c6fd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,7 +160,7 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "3761897743a72878",
+  "active": "c7e22b2cf681c6fd",
   "lastOpenFiles": [
     "토비의 스프링 3.1/Vol. 1/6장/AOP.md",
     "토비의 스프링 3.1/Vol. 1/6장/다이나믹 프록시와 팩토리 빈.md",
