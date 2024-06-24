@@ -151,6 +151,11 @@
   },
   "active": "3761897743a72878",
   "lastOpenFiles": [
+    "토비의 스프링 3.1/Vol. 1/1장/DAO의 분리.md",
+    "토비의 스프링 3.1/Vol. 1/1장/싱글톤 레지스트리와 오브젝트 스코프.md",
+    "토비의 스프링 3.1/Vol. 1/6장/고립된 단위 테스트.md",
+    "토비의 스프링 3.1/Vol. 1/6장/트랜잭션 속성.md",
+    "images/스크린샷 2024-06-24 오후 4.58.58.png",
     "Introduction to Algorithms/Sorting and Order Statistics/Heapsort/Heaps.md",
     "Introduction to Algorithms/Advanced Design and Analysis Techniques/Dynamic Programming/Dynamic Programming.md",
     "Introduction to Algorithms/Advanced Design and Analysis Techniques/Dynamic Programming/Matrix-chain multiplication.md",
@@ -166,10 +171,8 @@
     "토비의 스프링 3.1/Vol. 1/6장/다이나믹 프록시와 팩토리 빈.md",
     "토비의 스프링 3.1/Vol. 1/6장/트랜잭션 지원 테스트.md",
     "토비의 스프링 3.1/Vol. 1/6장/어노테이션 트랜잭션 속성과 포인트컷.md",
-    "토비의 스프링 3.1/Vol. 1/6장/트랜잭션 속성.md",
     "토비의 스프링 3.1/Vol. 1/6장/스프링 AOP.md",
     "토비의 스프링 3.1/Vol. 1/6장/스프링의 프록시 팩토리 빈.md",
-    "토비의 스프링 3.1/Vol. 1/6장/고립된 단위 테스트.md",
     "Introduction to Algorithms/Elementary Graph Algorithms/Breadth-first search.md",
     "토비의 스프링 3.1/Vol. 1/6장",
     "Introduction to Algorithms/Elementary Graph Algorithms/Representations of graphs.md",
@@ -179,8 +182,6 @@
     "Introduction to Algorithms/Advanced Design and Analysis Techniques/Greedy Algorithms/Huffman codes.md",
     "Introduction to Algorithms/Elementary Graph Algorithms",
     "Database Internals/Part 1/Chapter 2/Disk-Based Structures.md",
-    "Database Internals/Part 1/Storage Engines.md",
-    "Database Internals/Part 1/Chapter 3/Managing Variable-Size Data.md",
     "images/스크린샷 2024-06-13 오후 3.09.14.png",
     "Introduction to Algorithms/Advanced Design and Analysis Techniques/Greedy Algorithms",
     "Introduction to Algorithms/Advanced Design and Analysis Techniques/Dynamic Programming",
@@ -195,7 +196,6 @@
     "images/스크린샷 2024-05-12 오후 3.39.16.png",
     "토비의 스프링 3.1/Vol. 1/3장",
     "images/스크린샷 2024-05-10 오후 6.06.49.png",
-    "images/스크린샷 2024-05-10 오후 5.13.58.png",
-    "images/스크린샷 2024-05-10 오후 5.01.04.png"
+    "images/스크린샷 2024-05-10 오후 5.13.58.png"
   ]
 }
