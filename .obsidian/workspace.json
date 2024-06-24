@@ -4,45 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "db9030e116310997",
-        "type": "split",
+        "id": "5da6292028481cf6",
+        "type": "tabs",
         "children": [
           {
-            "id": "5da6292028481cf6",
-            "type": "tabs",
-            "dimension": 58.55855855855856,
-            "children": [
-              {
-                "id": "3761897743a72878",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Introduction to Algorithms/Sorting and Order Statistics/Heapsort/Heaps.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "3761897743a72878",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "토비의 스프링 3.1/Vol. 1/6장/트랜잭션 속성.md",
+                "mode": "source",
+                "source": false
               }
-            ]
-          },
-          {
-            "id": "b4a0f3154d883237",
-            "type": "tabs",
-            "dimension": 41.44144144144144,
-            "children": [
-              {
-                "id": "8ea0ac33f32ae6c1",
-                "type": "leaf",
-                "state": {
-                  "type": "custom-frames-chatgpt",
-                  "state": {}
-                }
-              }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction to Algorithms/Sorting and Order Statistics/Heapsort/Heaps.md",
+                "file": "토비의 스프링 3.1/Vol. 1/6장/트랜잭션 속성.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction to Algorithms/Sorting and Order Statistics/Heapsort/Heaps.md",
+                "file": "토비의 스프링 3.1/Vol. 1/6장/트랜잭션 속성.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduction to Algorithms/Sorting and Order Statistics/Heapsort/Heaps.md"
+                "file": "토비의 스프링 3.1/Vol. 1/6장/트랜잭션 속성.md"
               }
             }
           }
