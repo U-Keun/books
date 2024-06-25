@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction to Algorithms/Sorting and Order Statistics/Heapsort/Maintaining the heap property.md",
+                "file": "토비의 스프링 3.1/Vol. 1/6장/트랜잭션 속성.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction to Algorithms/Sorting and Order Statistics/Heapsort/Maintaining the heap property.md",
+                "file": "토비의 스프링 3.1/Vol. 1/6장/트랜잭션 속성.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction to Algorithms/Sorting and Order Statistics/Heapsort/Maintaining the heap property.md",
+                "file": "토비의 스프링 3.1/Vol. 1/6장/트랜잭션 속성.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduction to Algorithms/Sorting and Order Statistics/Heapsort/Maintaining the heap property.md"
+                "file": "토비의 스프링 3.1/Vol. 1/6장/트랜잭션 속성.md"
               }
             }
           }
@@ -164,8 +164,9 @@
   },
   "active": "3761897743a72878",
   "lastOpenFiles": [
-    "Introduction to Algorithms/Sorting and Order Statistics/Heapsort/Heaps.md",
+    "Introduction to Algorithms/Sorting and Order Statistics/Heapsort/Building a heap.md",
     "Introduction to Algorithms/Sorting and Order Statistics/Heapsort/Maintaining the heap property.md",
+    "Introduction to Algorithms/Sorting and Order Statistics/Heapsort/Heaps.md",
     "Database Internals/Part 1/Chapter 3/Motivation.md",
     "Database Internals/Part 1/Chapter 3/File Formats.md",
     "Database Internals/Part 1/Chapter 3/Binary Encoding.md",
@@ -192,7 +193,6 @@
     "Introduction to Algorithms/Elementary Graph Algorithms/Strongly connected components.md",
     "Introduction to Algorithms/Elementary Graph Algorithms/Topological sort.md",
     "토비의 스프링 3.1/Vol. 1/6장/트랜잭션 코드의 분리.md",
-    "토비의 스프링 3.1/Vol. 1/6장/AOP.md",
     "토비의 스프링 3.1/Vol. 1/6장",
     "Introduction to Algorithms/Elementary Graph Algorithms",
     "images/스크린샷 2024-06-13 오후 3.09.14.png",
