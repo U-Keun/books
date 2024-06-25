@@ -13,10 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "토비의 스프링 3.1/Vol. 1/6장/트랜잭션 속성.md",
+                "file": "Introduction to Algorithms/Sorting and Order Statistics/Heapsort/Maintaining the heap property.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "5dc1b3cb66b5db58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f41ad4ea58254c2",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-chatgpt",
+              "state": {}
             }
           }
         ]
@@ -69,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5,
-    "collapsed": true
+    "width": 271.5
   },
   "right": {
     "id": "2545cf5b8a19dcc4",
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "토비의 스프링 3.1/Vol. 1/6장/트랜잭션 속성.md",
+                "file": "Introduction to Algorithms/Sorting and Order Statistics/Heapsort/Maintaining the heap property.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "토비의 스프링 3.1/Vol. 1/6장/트랜잭션 속성.md",
+                "file": "Introduction to Algorithms/Sorting and Order Statistics/Heapsort/Maintaining the heap property.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "토비의 스프링 3.1/Vol. 1/6장/트랜잭션 속성.md"
+                "file": "Introduction to Algorithms/Sorting and Order Statistics/Heapsort/Maintaining the heap property.md"
               }
             }
           }
@@ -151,12 +164,24 @@
   },
   "active": "3761897743a72878",
   "lastOpenFiles": [
+    "Introduction to Algorithms/Sorting and Order Statistics/Heapsort/Heaps.md",
+    "Introduction to Algorithms/Sorting and Order Statistics/Heapsort/Maintaining the heap property.md",
+    "Database Internals/Part 1/Chapter 3/Motivation.md",
+    "Database Internals/Part 1/Chapter 3/File Formats.md",
+    "Database Internals/Part 1/Chapter 3/Binary Encoding.md",
+    "Database Internals/Part 1/Chapter 3/General Principles.md",
+    "Database Internals/Part 1/Chapter 3/Page Structure.md",
+    "Database Internals/Part 1/Chapter 3/Slotted Pages.md",
+    "Database Internals/Part 1/Chapter 3/Cell Layout.md",
+    "Database Internals/Part 1/Chapter 3/Combining Cells into Slotted Pages.md",
+    "Database Internals/Part 1/Chapter 3/Managing Variable-Size Data.md",
+    "Database Internals/Part 1/Chapter 3/Versioning.md",
+    "Database Internals/Part 1/Chapter 3/Checksumming.md",
+    "토비의 스프링 3.1/Vol. 1/6장/트랜잭션 속성.md",
     "토비의 스프링 3.1/Vol. 1/1장/DAO의 분리.md",
     "토비의 스프링 3.1/Vol. 1/1장/싱글톤 레지스트리와 오브젝트 스코프.md",
     "토비의 스프링 3.1/Vol. 1/6장/고립된 단위 테스트.md",
-    "토비의 스프링 3.1/Vol. 1/6장/트랜잭션 속성.md",
     "images/스크린샷 2024-06-24 오후 4.58.58.png",
-    "Introduction to Algorithms/Sorting and Order Statistics/Heapsort/Heaps.md",
     "Introduction to Algorithms/Advanced Design and Analysis Techniques/Dynamic Programming/Dynamic Programming.md",
     "Introduction to Algorithms/Advanced Design and Analysis Techniques/Dynamic Programming/Matrix-chain multiplication.md",
     "Introduction to Algorithms/Advanced Design and Analysis Techniques/Dynamic Programming/Optimal binary search trees.md",
@@ -168,20 +193,8 @@
     "Introduction to Algorithms/Elementary Graph Algorithms/Topological sort.md",
     "토비의 스프링 3.1/Vol. 1/6장/트랜잭션 코드의 분리.md",
     "토비의 스프링 3.1/Vol. 1/6장/AOP.md",
-    "토비의 스프링 3.1/Vol. 1/6장/다이나믹 프록시와 팩토리 빈.md",
-    "토비의 스프링 3.1/Vol. 1/6장/트랜잭션 지원 테스트.md",
-    "토비의 스프링 3.1/Vol. 1/6장/어노테이션 트랜잭션 속성과 포인트컷.md",
-    "토비의 스프링 3.1/Vol. 1/6장/스프링 AOP.md",
-    "토비의 스프링 3.1/Vol. 1/6장/스프링의 프록시 팩토리 빈.md",
-    "Introduction to Algorithms/Elementary Graph Algorithms/Breadth-first search.md",
     "토비의 스프링 3.1/Vol. 1/6장",
-    "Introduction to Algorithms/Elementary Graph Algorithms/Representations of graphs.md",
-    "Introduction to Algorithms/Advanced Design and Analysis Techniques/Dynamic Programming/Elements of dynamic programming.md",
-    "Introduction to Algorithms/Advanced Design and Analysis Techniques/Dynamic Programming/Longest common subsequence.md",
-    "Introduction to Algorithms/Elementary Graph Algorithms/Depth-first search.md",
-    "Introduction to Algorithms/Advanced Design and Analysis Techniques/Greedy Algorithms/Huffman codes.md",
     "Introduction to Algorithms/Elementary Graph Algorithms",
-    "Database Internals/Part 1/Chapter 2/Disk-Based Structures.md",
     "images/스크린샷 2024-06-13 오후 3.09.14.png",
     "Introduction to Algorithms/Advanced Design and Analysis Techniques/Greedy Algorithms",
     "Introduction to Algorithms/Advanced Design and Analysis Techniques/Dynamic Programming",
