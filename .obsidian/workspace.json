@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "d47621c80d33b349",
+        "id": "6c6894947ceb8f6e",
         "type": "split",
         "children": [
           {
             "id": "5da6292028481cf6",
             "type": "tabs",
-            "dimension": 57.54504504504504,
+            "dimension": 60.92342342342343,
             "children": [
               {
                 "id": "3761897743a72878",
@@ -27,12 +27,12 @@
             ]
           },
           {
-            "id": "e440234b18d009c4",
+            "id": "33eed6bb98d2fafe",
             "type": "tabs",
-            "dimension": 42.45495495495496,
+            "dimension": 39.07657657657658,
             "children": [
               {
-                "id": "83ca3020480db255",
+                "id": "f7fcab1256f3c5de",
                 "type": "leaf",
                 "state": {
                   "type": "custom-frames-chatgpt",
@@ -172,7 +172,7 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "3761897743a72878",
+  "active": "f7fcab1256f3c5de",
   "lastOpenFiles": [
     "Introduction to Algorithms/Foundations/The role of algorithms in computing/Algorithms.md",
     "토비의 스프링 3.1/Vol. 1/6장/트랜잭션 속성.md",
