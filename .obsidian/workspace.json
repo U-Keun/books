@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5,
-    "collapsed": true
+    "width": 271.5
   },
   "right": {
     "id": "2545cf5b8a19dcc4",
@@ -174,8 +173,8 @@
   },
   "active": "3761897743a72878",
   "lastOpenFiles": [
-    "Introduction to Algorithms/Foundations/The role of algorithms in computing/Algorithms.md",
     "토비의 스프링 3.1/Vol. 1/6장/트랜잭션 속성.md",
+    "Introduction to Algorithms/Foundations/The role of algorithms in computing/Algorithms.md",
     "Introduction to Algorithms/Foundations/The role of algorithms in computing",
     "Introduction to Algorithms/Foundations",
     "Introduction to Algorithms/Sorting and Order Statistics/Heapsort/Building a heap.md",
