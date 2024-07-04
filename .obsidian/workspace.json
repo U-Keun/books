@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Introduction to Algorithms/Foundations/The role of algorithms in computing/Algorithms as a technology.md",
+                    "file": "Introduction to Algorithms/Foundations/Getting Started/Insertion sort.md",
                     "mode": "source",
                     "source": false
                   }
@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5
+    "width": 271.5,
+    "collapsed": true
   },
   "right": {
     "id": "2545cf5b8a19dcc4",
@@ -108,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction to Algorithms/Foundations/The role of algorithms in computing/Algorithms as a technology.md",
+                "file": "Introduction to Algorithms/Foundations/Getting Started/Insertion sort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction to Algorithms/Foundations/The role of algorithms in computing/Algorithms as a technology.md",
+                "file": "Introduction to Algorithms/Foundations/Getting Started/Insertion sort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduction to Algorithms/Foundations/The role of algorithms in computing/Algorithms as a technology.md"
+                "file": "Introduction to Algorithms/Foundations/Getting Started/Insertion sort.md"
               }
             }
           }
@@ -171,11 +172,12 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "07f649e5ace71030",
+  "active": "3761897743a72878",
   "lastOpenFiles": [
+    "Introduction to Algorithms/Foundations/The role of algorithms in computing/Algorithms as a technology.md",
+    "Introduction to Algorithms/Foundations/Getting Started/Insertion sort.md",
     "Introduction to Algorithms/Foundations/Getting Started",
     "Introduction to Algorithms/Foundations/The role of algorithms in computing/Algorithms.md",
-    "Introduction to Algorithms/Foundations/The role of algorithms in computing/Algorithms as a technology.md",
     "토비의 스프링 3.1/Vol. 1/6장/트랜잭션 속성.md",
     "Introduction to Algorithms/Foundations/The role of algorithms in computing",
     "Introduction to Algorithms/Foundations",
@@ -210,7 +212,6 @@
     "Introduction to Algorithms/Advanced Design and Analysis Techniques/Greedy Algorithms",
     "Introduction to Algorithms/Advanced Design and Analysis Techniques/Dynamic Programming",
     "Introduction to Algorithms/Advanced Design and Analysis Techniques",
-    "Introduction to Algorithms",
     "images/스크린샷 2024-05-20 오후 3.10.52.png",
     "images/스크린샷 2024-05-19 오전 8.36.20.png",
     "images/스크린샷 2024-05-18 오전 8.36.09.png",
