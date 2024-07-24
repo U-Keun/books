@@ -36,19 +36,8 @@
                   "type": "custom-frames-chatgpt",
                   "state": {}
                 }
-              },
-              {
-                "id": "a3be4e64f0018709",
-                "type": "leaf",
-                "state": {
-                  "type": "release-notes",
-                  "state": {
-                    "currentVersion": "1.6.7"
-                  }
-                }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "horizontal"
@@ -181,7 +170,7 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "a3be4e64f0018709",
+  "active": "f5efc843e0e64ea5",
   "lastOpenFiles": [
     "Introduction to Algorithms/Foundations/The role of algorithms in computing/Algorithms as a technology.md",
     "Introduction to Algorithms/Foundations/Getting Started/Insertion sort.md",
