@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Introduction to Algorithms/Foundations/Getting Started/Insertion sort.md",
+                    "file": "좋은 코드, 나쁜 코드/Chapter 8/의존성 주입의 사용을 고려하라.md",
                     "mode": "source",
                     "source": false
                   }
@@ -90,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5,
-    "collapsed": true
+    "width": 271.5
   },
   "right": {
     "id": "2545cf5b8a19dcc4",
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction to Algorithms/Foundations/Getting Started/Insertion sort.md",
+                "file": "좋은 코드, 나쁜 코드/Chapter 8/의존성 주입의 사용을 고려하라.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction to Algorithms/Foundations/Getting Started/Insertion sort.md",
+                "file": "좋은 코드, 나쁜 코드/Chapter 8/의존성 주입의 사용을 고려하라.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduction to Algorithms/Foundations/Getting Started/Insertion sort.md"
+                "file": "좋은 코드, 나쁜 코드/Chapter 8/의존성 주입의 사용을 고려하라.md"
               }
             }
           }
@@ -170,12 +169,19 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "f5efc843e0e64ea5",
+  "active": "3761897743a72878",
   "lastOpenFiles": [
-    "Introduction to Algorithms/Foundations/The role of algorithms in computing/Algorithms as a technology.md",
-    "Introduction to Algorithms/Foundations/Getting Started/Insertion sort.md",
-    "Introduction to Algorithms/Foundations/Getting Started",
+    "좋은 코드, 나쁜 코드/Chapter 8/무제 파일.md",
+    "좋은 코드, 나쁜 코드/Chapter 7. 코드를 오용하기 어렵게 만들라.md",
+    "좋은 코드, 나쁜 코드/Chapter 2. 추상화 계층.md",
+    "Database Internals/Part 1/Chapter 2/Binary Search Trees.md",
     "Introduction to Algorithms/Foundations/The role of algorithms in computing/Algorithms.md",
+    "Introduction to Algorithms/Advanced Design and Analysis Techniques/Greedy Algorithms/Elements of the greedy strategy.md",
+    "Introduction to Algorithms/Advanced Design and Analysis Techniques/Dynamic Programming/Elements of dynamic programming.md",
+    "Introduction to Algorithms/Advanced Design and Analysis Techniques/Dynamic Programming/Dynamic Programming.md",
+    "Introduction to Algorithms/Foundations/Getting Started/Insertion sort.md",
+    "Introduction to Algorithms/Foundations/The role of algorithms in computing/Algorithms as a technology.md",
+    "Introduction to Algorithms/Foundations/Getting Started",
     "토비의 스프링 3.1/Vol. 1/6장/트랜잭션 속성.md",
     "Introduction to Algorithms/Foundations/The role of algorithms in computing",
     "Introduction to Algorithms/Foundations",
@@ -194,14 +200,7 @@
     "Database Internals/Part 1/Chapter 3/Versioning.md",
     "Database Internals/Part 1/Chapter 3/Checksumming.md",
     "토비의 스프링 3.1/Vol. 1/1장/DAO의 분리.md",
-    "토비의 스프링 3.1/Vol. 1/1장/싱글톤 레지스트리와 오브젝트 스코프.md",
-    "토비의 스프링 3.1/Vol. 1/6장/고립된 단위 테스트.md",
     "images/스크린샷 2024-06-24 오후 4.58.58.png",
-    "Introduction to Algorithms/Advanced Design and Analysis Techniques/Dynamic Programming/Dynamic Programming.md",
-    "Introduction to Algorithms/Advanced Design and Analysis Techniques/Dynamic Programming/Matrix-chain multiplication.md",
-    "Introduction to Algorithms/Advanced Design and Analysis Techniques/Dynamic Programming/Optimal binary search trees.md",
-    "Introduction to Algorithms/Advanced Design and Analysis Techniques/Dynamic Programming/Problems.md",
-    "Introduction to Algorithms/Elementary Graph Algorithms/Elementary Graph Algorithms.md",
     "Introduction to Algorithms/Sorting and Order Statistics/Heapsort",
     "Introduction to Algorithms/Sorting and Order Statistics",
     "토비의 스프링 3.1/Vol. 1/6장",
