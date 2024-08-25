@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "46b8d105e0427ce1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "토비의 스프링 3.1/Vol. 1/1장/의존관계 주입(DI).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -151,8 +163,12 @@
   },
   "active": "3761897743a72878",
   "lastOpenFiles": [
-    "임베디드 레시피/Hardware Collage/Hardware Collage.md",
+    "토비의 스프링 3.1/Vol. 1/1장/의존관계 주입(DI).md",
+    "images/스크린샷 2024-04-15 오전 2.17.45.png",
+    "images/스크린샷 2024-04-15 오전 2.05.42.png",
+    "토비의 스프링 3.1/Vol. 1/1장/DAO의 분리.md",
     "임베디드 레시피/Hardware Collage/Spectrum Analysis.md",
+    "임베디드 레시피/Hardware Collage/Hardware Collage.md",
     "좋은 코드, 나쁜 코드/Chapter 8/의존성 주입의 사용을 고려하라.md",
     "임베디드 레시피/Hardware Collage",
     "임베디드 레시피",
@@ -179,9 +195,6 @@
     "Database Internals/Part 1/Chapter 3/General Principles.md",
     "Database Internals/Part 1/Chapter 3/Page Structure.md",
     "Database Internals/Part 1/Chapter 3/Slotted Pages.md",
-    "Database Internals/Part 1/Chapter 3/Cell Layout.md",
-    "Database Internals/Part 1/Chapter 3/Combining Cells into Slotted Pages.md",
-    "Database Internals/Part 1/Chapter 3/Managing Variable-Size Data.md",
     "images/스크린샷 2024-06-24 오후 4.58.58.png",
     "Introduction to Algorithms/Sorting and Order Statistics/Heapsort",
     "Introduction to Algorithms/Sorting and Order Statistics",
@@ -194,8 +207,6 @@
     "images/스크린샷 2024-05-18 오전 8.36.09.png",
     "images/스크린샷 2024-05-18 오전 8.13.51.png",
     "images/스크린샷 2024-05-16 오후 1.36.00.png",
-    "images/스크린샷 2024-05-12 오후 3.39.16.png",
-    "images/스크린샷 2024-05-10 오후 6.06.49.png",
-    "images/스크린샷 2024-05-10 오후 5.13.58.png"
+    "images/스크린샷 2024-05-12 오후 3.39.16.png"
   ]
 }
