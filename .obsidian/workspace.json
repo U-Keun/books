@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "임베디드 레시피/Hardware Collage/Spectrum Analysis.md",
+                "file": "Introduction to Algorithms/Advanced Design and Analysis Techniques/Dynamic Programming/Matrix-chain multiplication.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5,
-    "collapsed": true
+    "width": 271.5
   },
   "right": {
     "id": "2545cf5b8a19dcc4",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "임베디드 레시피/Hardware Collage/Spectrum Analysis.md",
+                "file": "Introduction to Algorithms/Advanced Design and Analysis Techniques/Dynamic Programming/Matrix-chain multiplication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "임베디드 레시피/Hardware Collage/Spectrum Analysis.md",
+                "file": "Introduction to Algorithms/Advanced Design and Analysis Techniques/Dynamic Programming/Matrix-chain multiplication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "임베디드 레시피/Hardware Collage/Spectrum Analysis.md"
+                "file": "Introduction to Algorithms/Advanced Design and Analysis Techniques/Dynamic Programming/Matrix-chain multiplication.md"
               }
             }
           }
@@ -163,11 +162,11 @@
   },
   "active": "3761897743a72878",
   "lastOpenFiles": [
+    "임베디드 레시피/Hardware Collage/Spectrum Analysis.md",
     "토비의 스프링 3.1/Vol. 1/1장/의존관계 주입(DI).md",
     "images/스크린샷 2024-04-15 오전 2.17.45.png",
     "images/스크린샷 2024-04-15 오전 2.05.42.png",
     "토비의 스프링 3.1/Vol. 1/1장/DAO의 분리.md",
-    "임베디드 레시피/Hardware Collage/Spectrum Analysis.md",
     "임베디드 레시피/Hardware Collage/Hardware Collage.md",
     "좋은 코드, 나쁜 코드/Chapter 8/의존성 주입의 사용을 고려하라.md",
     "임베디드 레시피/Hardware Collage",
