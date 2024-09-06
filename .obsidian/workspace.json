@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction to Algorithms/Advanced Design and Analysis Techniques/Dynamic Programming/Matrix-chain multiplication.md",
+                "file": "Introduction to Algorithms/Elementary Graph Algorithms/Representations of graphs.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction to Algorithms/Advanced Design and Analysis Techniques/Dynamic Programming/Matrix-chain multiplication.md",
+                "file": "Introduction to Algorithms/Elementary Graph Algorithms/Representations of graphs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction to Algorithms/Advanced Design and Analysis Techniques/Dynamic Programming/Matrix-chain multiplication.md",
+                "file": "Introduction to Algorithms/Elementary Graph Algorithms/Representations of graphs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduction to Algorithms/Advanced Design and Analysis Techniques/Dynamic Programming/Matrix-chain multiplication.md"
+                "file": "Introduction to Algorithms/Elementary Graph Algorithms/Representations of graphs.md"
               }
             }
           }
@@ -162,6 +162,8 @@
   },
   "active": "3761897743a72878",
   "lastOpenFiles": [
+    "Introduction to Algorithms/Elementary Graph Algorithms/Elementary Graph Algorithms.md",
+    "Introduction to Algorithms/Advanced Design and Analysis Techniques/Dynamic Programming/Matrix-chain multiplication.md",
     "임베디드 레시피/Hardware Collage/Spectrum Analysis.md",
     "토비의 스프링 3.1/Vol. 1/1장/의존관계 주입(DI).md",
     "images/스크린샷 2024-04-15 오전 2.17.45.png",
@@ -193,7 +195,6 @@
     "Database Internals/Part 1/Chapter 3/Binary Encoding.md",
     "Database Internals/Part 1/Chapter 3/General Principles.md",
     "Database Internals/Part 1/Chapter 3/Page Structure.md",
-    "Database Internals/Part 1/Chapter 3/Slotted Pages.md",
     "images/스크린샷 2024-06-24 오후 4.58.58.png",
     "Introduction to Algorithms/Sorting and Order Statistics/Heapsort",
     "Introduction to Algorithms/Sorting and Order Statistics",
