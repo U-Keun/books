@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5da6292028481cf6",
+        "id": "41028afa5ef60470",
         "type": "tabs",
         "children": [
           {
-            "id": "3761897743a72878",
+            "id": "3b51d629c932fe17",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Introduction to Algorithms/Elementary Graph Algorithms/Representations of graphs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "46b8d105e0427ce1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "토비의 스프링 3.1/Vol. 1/1장/의존관계 주입(DI).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -77,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction to Algorithms/Elementary Graph Algorithms/Representations of graphs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction to Algorithms/Elementary Graph Algorithms/Representations of graphs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Introduction to Algorithms/Elementary Graph Algorithms/Representations of graphs.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -160,12 +141,13 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "3761897743a72878",
+  "active": "455389a5a5c2dce8",
   "lastOpenFiles": [
+    "토비의 스프링 3.1/Vol. 1/1장/의존관계 주입(DI).md",
+    "Introduction to Algorithms/Elementary Graph Algorithms/Representations of graphs.md",
     "Introduction to Algorithms/Elementary Graph Algorithms/Elementary Graph Algorithms.md",
     "Introduction to Algorithms/Advanced Design and Analysis Techniques/Dynamic Programming/Matrix-chain multiplication.md",
     "임베디드 레시피/Hardware Collage/Spectrum Analysis.md",
-    "토비의 스프링 3.1/Vol. 1/1장/의존관계 주입(DI).md",
     "images/스크린샷 2024-04-15 오전 2.17.45.png",
     "images/스크린샷 2024-04-15 오전 2.05.42.png",
     "토비의 스프링 3.1/Vol. 1/1장/DAO의 분리.md",
@@ -194,7 +176,6 @@
     "Database Internals/Part 1/Chapter 3/File Formats.md",
     "Database Internals/Part 1/Chapter 3/Binary Encoding.md",
     "Database Internals/Part 1/Chapter 3/General Principles.md",
-    "Database Internals/Part 1/Chapter 3/Page Structure.md",
     "images/스크린샷 2024-06-24 오후 4.58.58.png",
     "Introduction to Algorithms/Sorting and Order Statistics/Heapsort",
     "Introduction to Algorithms/Sorting and Order Statistics",
