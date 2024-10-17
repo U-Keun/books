@@ -2,13 +2,13 @@
 개인의 이해를 위해 읽은/읽고 있는/읽다가 멈춘 책들의 내용을 번역/의역/요약/재구성 및 개인적인 생각/사담 등을 정리, 기록해놓은 노트입니다.
 
 - 정리 중인 노트
-	- 토비의 스프링 3.1(스터디 진행중)
-	- Database Internals(스터디 진행중)
-	- Introduction to algorithms(과외 준비 + 개인적인 흥미)
+	- Introduction to algorithms(개인적인 흥미)
 - 읽는 것을 멈춘 책들
 	- Effective Java
 	- Clean Code
 	- 만들면서 배우는 클린 아키텍처
+	- 토비의 스프링 3.1
+	- Database Internals(Part 1까지)
 - 읽었지만 정리가 안 된 책들
 	- 좋은 코드, 나쁜 코드
 
