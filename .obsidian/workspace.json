@@ -156,8 +156,9 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "0b2085bc85a42e84",
+  "active": "07f649e5ace71030",
   "lastOpenFiles": [
+    "디버깅을 통해 배우는 리눅스 커널의 구조와 원리",
     "좋은 코드, 나쁜 코드/Chapter 1. 코드 품질.md",
     "토비의 스프링 3.1/Vol. 1/1장/의존관계 주입(DI).md",
     "Introduction to Algorithms/Elementary Graph Algorithms/Representations of graphs.md",
@@ -190,7 +191,6 @@
     "Introduction to Algorithms/Sorting and Order Statistics/Heapsort/Heaps.md",
     "Database Internals/Part 1/Chapter 3/Motivation.md",
     "Database Internals/Part 1/Chapter 3/File Formats.md",
-    "Database Internals/Part 1/Chapter 3/Binary Encoding.md",
     "images/스크린샷 2024-06-24 오후 4.58.58.png",
     "Introduction to Algorithms/Sorting and Order Statistics/Heapsort",
     "Introduction to Algorithms/Sorting and Order Statistics",
