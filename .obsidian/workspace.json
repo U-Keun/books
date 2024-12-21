@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "41028afa5ef60470",
+        "id": "5c4adaa5fdc481f1",
         "type": "tabs",
         "children": [
           {
-            "id": "3b51d629c932fe17",
+            "id": "0b2085bc85a42e84",
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
             }
           }
         ]
@@ -35,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
             }
           },
           {
@@ -50,7 +54,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "검색"
             }
           },
           {
@@ -58,11 +64,12 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -89,7 +96,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "백링크"
             }
           },
           {
@@ -100,7 +109,9 @@
               "state": {
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "나가는 링크"
             }
           },
           {
@@ -111,7 +122,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -119,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {},
+              "icon": "lucide-list",
+              "title": "개요"
             }
           }
         ],
@@ -141,8 +156,9 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "455389a5a5c2dce8",
+  "active": "0b2085bc85a42e84",
   "lastOpenFiles": [
+    "좋은 코드, 나쁜 코드/Chapter 1. 코드 품질.md",
     "토비의 스프링 3.1/Vol. 1/1장/의존관계 주입(DI).md",
     "Introduction to Algorithms/Elementary Graph Algorithms/Representations of graphs.md",
     "Introduction to Algorithms/Elementary Graph Algorithms/Elementary Graph Algorithms.md",
@@ -175,7 +191,6 @@
     "Database Internals/Part 1/Chapter 3/Motivation.md",
     "Database Internals/Part 1/Chapter 3/File Formats.md",
     "Database Internals/Part 1/Chapter 3/Binary Encoding.md",
-    "Database Internals/Part 1/Chapter 3/General Principles.md",
     "images/스크린샷 2024-06-24 오후 4.58.58.png",
     "Introduction to Algorithms/Sorting and Order Statistics/Heapsort",
     "Introduction to Algorithms/Sorting and Order Statistics",
