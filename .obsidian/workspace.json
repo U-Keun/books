@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "디버깅을 통해 배우는 리눅스 커널의 구조와 원리/라즈베리 파이와 리눅스 커널.md",
+                "file": "디버깅을 통해 배우는 리눅스 커널의 구조와 원리/리눅스 커널 빌드.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "라즈베리 파이와 리눅스 커널"
+              "title": "리눅스 커널 빌드"
             }
           }
         ]
@@ -168,6 +168,7 @@
   "active": "0b2085bc85a42e84",
   "lastOpenFiles": [
     "디버깅을 통해 배우는 리눅스 커널의 구조와 원리/라즈베리 파이와 리눅스 커널.md",
+    "디버깅을 통해 배우는 리눅스 커널의 구조와 원리/리눅스 커널 빌드.md",
     "디버깅을 통해 배우는 리눅스 커널의 구조와 원리",
     "좋은 코드, 나쁜 코드/Chapter 1. 코드 품질.md",
     "토비의 스프링 3.1/Vol. 1/1장/의존관계 주입(DI).md",
@@ -200,7 +201,6 @@
     "Introduction to Algorithms/Sorting and Order Statistics/Heapsort/Maintaining the heap property.md",
     "Introduction to Algorithms/Sorting and Order Statistics/Heapsort/Heaps.md",
     "Database Internals/Part 1/Chapter 3/Motivation.md",
-    "Database Internals/Part 1/Chapter 3/File Formats.md",
     "images/스크린샷 2024-06-24 오후 4.58.58.png",
     "Introduction to Algorithms/Sorting and Order Statistics/Heapsort",
     "Introduction to Algorithms/Sorting and Order Statistics",
