@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "디버깅을 통해 배우는 리눅스 커널의 구조와 원리/리눅스 커널 빌드.md",
-                "mode": "preview",
+                "file": "디버깅을 통해 배우는 리눅스 커널의 구조와 원리/Trouble shooting.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "리눅스 커널 빌드"
+              "title": "Trouble shooting"
             }
           }
         ]
@@ -168,8 +168,9 @@
   "lastOpenFiles": [
     "디버깅을 통해 배우는 리눅스 커널의 구조와 원리/라즈베리 파이와 리눅스 커널.md",
     "디버깅을 통해 배우는 리눅스 커널의 구조와 원리/리눅스 커널 빌드.md",
-    "디버깅을 통해 배우는 리눅스 커널의 구조와 원리/Trouble shooting.md",
+    "images/IMG_0787BFAB8361-1.jpeg",
     "images/스크린샷 2024-12-30 오후 2.40.08.png",
+    "디버깅을 통해 배우는 리눅스 커널의 구조와 원리/Trouble shooting.md",
     "images/스크린샷 2024-12-30 오후 2.16.42.png",
     "디버깅을 통해 배우는 리눅스 커널의 구조와 원리",
     "좋은 코드, 나쁜 코드/Chapter 1. 코드 품질.md",
@@ -201,7 +202,6 @@
     "Introduction to Algorithms/Foundations",
     "Introduction to Algorithms/Sorting and Order Statistics/Heapsort/Building a heap.md",
     "Introduction to Algorithms/Sorting and Order Statistics/Heapsort/Maintaining the heap property.md",
-    "Introduction to Algorithms/Sorting and Order Statistics/Heapsort/Heaps.md",
     "images/스크린샷 2024-06-24 오후 4.58.58.png",
     "Introduction to Algorithms/Sorting and Order Statistics/Heapsort",
     "Introduction to Algorithms/Sorting and Order Statistics",
@@ -210,7 +210,6 @@
     "images/스크린샷 2024-06-13 오후 3.09.14.png",
     "images/스크린샷 2024-05-20 오후 3.10.52.png",
     "images/스크린샷 2024-05-19 오전 8.36.20.png",
-    "images/스크린샷 2024-05-18 오전 8.36.09.png",
-    "images/스크린샷 2024-05-18 오전 8.13.51.png"
+    "images/스크린샷 2024-05-18 오전 8.36.09.png"
   ]
 }
