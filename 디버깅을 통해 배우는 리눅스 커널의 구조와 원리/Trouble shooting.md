@@ -18,6 +18,24 @@ warning: the following paths have collided (e.g. case-sensitive paths on a case-
 또한, Docker를 이용해서 Ubuntu 컨테이너를 만들어도, 호스트 머신과 마운트 해둔 디렉토리에서 작업을 하면, 해당 디렉토리는 호스트 머신의 환경에 영향을 받는다. 다시 말하면, 마운트 해둔 디렉토리에서 `git clone`을 수행하면 똑같은 문제가 발생하는 것이다. 그래서 컨테이너 안에서도, 호스트 머신과 마운트 해둔 디렉토리가 아닌, 컨테이너 내부에서 `git clone` 을 수행하면 제대로 리눅스 커널 소스 코드가 받아지고, 빌드도 제대로 되는 것을 확인할 수 있었다. 
 
 ### Issue #2
-`ftrace` 실습을 위해 `ftrace`의 옵션을 설정하는 쉘 스크립트를 작성하던 중에, 
+`ftrace` 실습을 위해 `ftrace`의 옵션을 설정하는 쉘 스크립트를 작성하던 중에, 다음과 같은 명령을 수행할 때 `Invalid argument` 메시지가 떴다.
+```bash
+echo sys_clone do_exit > /sys/kernel/debug/tracing/set_ftrace_filter
+```
+로그가 찍히는 것으로 확인되기는 했지만, 아무래도 찝찝해서 약간 조사를 해보았다.
+
+문법이 틀린 것은 아니지만, `sys_clone` 이라는 함수명이 실제로 해당 커널 버전에서 추적이 가능한 심볼로 노출되는지 확인해야 한다고 한다. 실제로 아래와 같이 확인해볼 수 있었다.
+```bash
+$ cat /proc/kallsyms | grep sys_clone
+ffffd0008408c998 t __do_sys_clone
+ffffd0008408ca40 t __do_sys_clone3
+ffffd0008408ce00 T __arm64_sys_clone
+ffffd0008408ce40 T __arm64_sys_clone3
+```
+
+그래서 처음의 명령문을 다음과 같이 수정했고, `Invalid argument` 메시지는 사라졌다!
+```bash
+echo __arm64_sys_clone do_exit > /sys/kernel/debug/tracing/set_ftrace_filter
+```
 
 #TroubleShooting
