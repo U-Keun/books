@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "디버깅을 통해 배우는 리눅스 커널의 구조와 원리/프로세스.md",
+                "file": "디버깅을 통해 배우는 리눅스 커널의 구조와 원리/프로세스 생성.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "프로세스"
+              "title": "프로세스 생성"
             }
           }
         ]
@@ -166,8 +166,9 @@
   },
   "active": "0b2085bc85a42e84",
   "lastOpenFiles": [
-    "디버깅을 통해 배우는 리눅스 커널의 구조와 원리/라즈베리 파이와 리눅스 커널.md",
     "디버깅을 통해 배우는 리눅스 커널의 구조와 원리/프로세스.md",
+    "디버깅을 통해 배우는 리눅스 커널의 구조와 원리/프로세스 생성.md",
+    "디버깅을 통해 배우는 리눅스 커널의 구조와 원리/라즈베리 파이와 리눅스 커널.md",
     "디버깅을 통해 배우는 리눅스 커널의 구조와 원리/리눅스 커널 빌드.md",
     "디버깅을 통해 배우는 리눅스 커널의 구조와 원리/Trouble shooting.md",
     "images/IMG_0787BFAB8361-1.jpeg",
@@ -202,7 +203,6 @@
     "Introduction to Algorithms/Foundations/The role of algorithms in computing",
     "Introduction to Algorithms/Foundations",
     "Introduction to Algorithms/Sorting and Order Statistics/Heapsort/Building a heap.md",
-    "Introduction to Algorithms/Sorting and Order Statistics/Heapsort/Maintaining the heap property.md",
     "images/스크린샷 2024-06-24 오후 4.58.58.png",
     "Introduction to Algorithms/Sorting and Order Statistics/Heapsort",
     "Introduction to Algorithms/Sorting and Order Statistics",
