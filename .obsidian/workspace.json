@@ -31,8 +31,7 @@
               "title": "chatGPT"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -174,7 +173,7 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "abad1be0672c57fd",
+  "active": "0b2085bc85a42e84",
   "lastOpenFiles": [
     "images/스크린샷 2025-02-14 오전 11.58.21.png",
     "디버깅을 통해 배우는 리눅스 커널의 구조와 원리/인터럽트/인터럽트.md",
