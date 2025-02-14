@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "디버깅을 통해 배우는 리눅스 커널의 구조와 원리/인터럽트/인터럽트 컨텍스트.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
