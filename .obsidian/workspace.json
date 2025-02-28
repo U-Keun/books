@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "디버깅을 통해 배우는 리눅스 커널의 구조와 원리/인터럽트/인터럽트 컨텍스트.md",
-                "mode": "preview",
+                "file": "디버깅을 통해 배우는 리눅스 커널의 구조와 원리/인터럽트/인터럽트 벡터.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "인터럽트 컨텍스트"
+              "title": "인터럽트 벡터"
             }
           },
           {
@@ -45,8 +45,7 @@
               "title": "Maximum Flow"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5,
-    "collapsed": true
+    "width": 271.5
   },
   "right": {
     "id": "2545cf5b8a19dcc4",
@@ -191,14 +189,15 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "abad1be0672c57fd",
+  "active": "0b2085bc85a42e84",
   "lastOpenFiles": [
+    "디버깅을 통해 배우는 리눅스 커널의 구조와 원리/인터럽트/인터럽트.md",
+    "디버깅을 통해 배우는 리눅스 커널의 구조와 원리/인터럽트/인터럽트 벡터.md",
+    "디버깅을 통해 배우는 리눅스 커널의 구조와 원리/인터럽트/인터럽트 컨텍스트.md",
     "Introduction to Algorithms/Graph Algorithms/Maximum Flow/Maximum Flow.md",
     "Introduction to Algorithms/Graph Algorithms/Maximum Flow",
     "Introduction to Algorithms/Graph Algorithms",
-    "디버깅을 통해 배우는 리눅스 커널의 구조와 원리/인터럽트/인터럽트.md",
     "디버깅을 통해 배우는 리눅스 커널의 구조와 원리/Trouble shooting.md",
-    "디버깅을 통해 배우는 리눅스 커널의 구조와 원리/인터럽트/인터럽트 컨텍스트.md",
     "images/스크린샷 2025-02-14 오전 11.58.21.png",
     "디버깅을 통해 배우는 리눅스 커널의 구조와 원리/프로세스/task_struct 구조체.md",
     "디버깅을 통해 배우는 리눅스 커널의 구조와 원리/인터럽트",
@@ -235,7 +234,6 @@
     "좋은 코드, 나쁜 코드/Chapter 7. 코드를 오용하기 어렵게 만들라.md",
     "좋은 코드, 나쁜 코드/Chapter 2. 추상화 계층.md",
     "Database Internals/Part 1/Chapter 2/Binary Search Trees.md",
-    "Introduction to Algorithms/Foundations/The role of algorithms in computing/Algorithms.md",
     "Introduction to Algorithms/Foundations/Getting Started",
     "Introduction to Algorithms/Foundations/The role of algorithms in computing",
     "Introduction to Algorithms/Foundations"
