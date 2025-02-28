@@ -22,16 +22,6 @@
             }
           },
           {
-            "id": "abad1be0672c57fd",
-            "type": "leaf",
-            "state": {
-              "type": "custom-frames-chatgpt",
-              "state": {},
-              "icon": "lucide-bot",
-              "title": "chatGPT"
-            }
-          },
-          {
             "id": "cfab4d5419190a80",
             "type": "leaf",
             "state": {
@@ -43,6 +33,22 @@
               },
               "icon": "lucide-file",
               "title": "Maximum Flow"
+            }
+          }
+        ]
+      },
+      {
+        "id": "37a33a6f65996d25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "abad1be0672c57fd",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-chatgpt",
+              "state": {},
+              "icon": "lucide-bot",
+              "title": "chatGPT"
             }
           }
         ]
@@ -189,7 +195,7 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "0b2085bc85a42e84",
+  "active": "abad1be0672c57fd",
   "lastOpenFiles": [
     "Introduction to Algorithms/Graph Algorithms/Maximum Flow/Maximum Flow.md",
     "디버깅을 통해 배우는 리눅스 커널의 구조와 원리/인터럽트/인터럽트 벡터.md",
