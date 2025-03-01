@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "디버깅을 통해 배우는 리눅스 커널의 구조와 원리/인터럽트/인터럽트 벡터.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -34,13 +34,7 @@
               "icon": "lucide-file",
               "title": "Maximum Flow"
             }
-          }
-        ]
-      },
-      {
-        "id": "37a33a6f65996d25",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "abad1be0672c57fd",
             "type": "leaf",
@@ -108,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5
+    "width": 271.5,
+    "collapsed": true
   },
   "right": {
     "id": "2545cf5b8a19dcc4",
