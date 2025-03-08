@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "디버깅을 통해 배우는 리눅스 커널의 구조와 원리/인터럽트/인터럽트 핸들러.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -185,6 +185,7 @@
   },
   "active": "cfab4d5419190a80",
   "lastOpenFiles": [
+    "images/Pasted image 20250308195822.png",
     "디버깅을 통해 배우는 리눅스 커널의 구조와 원리/인터럽트/인터럽트 디스크립터.md",
     "디버깅을 통해 배우는 리눅스 커널의 구조와 원리/인터럽트/인터럽트 벡터.md",
     "디버깅을 통해 배우는 리눅스 커널의 구조와 원리/인터럽트/인터럽트 핸들러.md",
@@ -227,7 +228,6 @@
     "임베디드 레시피/Hardware Collage",
     "임베디드 레시피",
     "좋은 코드, 나쁜 코드/Chapter 8/무제 파일.md",
-    "좋은 코드, 나쁜 코드/Chapter 7. 코드를 오용하기 어렵게 만들라.md",
     "Introduction to Algorithms/Foundations/Getting Started",
     "Introduction to Algorithms/Foundations/The role of algorithms in computing",
     "Introduction to Algorithms/Foundations"
