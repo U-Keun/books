@@ -34,9 +34,16 @@
               "icon": "lucide-file",
               "title": "인터럽트 핸들러"
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "7d62f49504c4489f",
+        "type": "tabs",
+        "children": [
           {
-            "id": "abad1be0672c57fd",
+            "id": "9b6e095a876356bb",
             "type": "leaf",
             "state": {
               "type": "custom-frames-chatgpt",
@@ -45,8 +52,7 @@
               "title": "chatGPT"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,10 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "디버깅을 통해 배우는 리눅스 커널의 구조와 원리/인터럽트/인터럽트 컨텍스트.md"
+                "file": "디버깅을 통해 배우는 리눅스 커널의 구조와 원리/인터럽트/인터럽트 핸들러.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "인터럽트 컨텍스트 개요"
+              "title": "인터럽트 핸들러 의 개요"
             }
           }
         ],
@@ -177,8 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,7 +199,7 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "abad1be0672c57fd",
+  "active": "9b6e095a876356bb",
   "lastOpenFiles": [
     "디버깅을 통해 배우는 리눅스 커널의 구조와 원리/인터럽트/인터럽트 디스크립터.md",
     "디버깅을 통해 배우는 리눅스 커널의 구조와 원리/인터럽트/인터럽트 벡터.md",
