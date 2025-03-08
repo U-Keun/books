@@ -103,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5,
-    "collapsed": true
+    "width": 271.5
   },
   "right": {
     "id": "2545cf5b8a19dcc4",
@@ -191,8 +190,9 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "cfab4d5419190a80",
+  "active": "07f649e5ace71030",
   "lastOpenFiles": [
+    "images/high-rising.png",
     "디버깅을 통해 배우는 리눅스 커널의 구조와 원리/인터럽트/인터럽트 벡터.md",
     "디버깅을 통해 배우는 리눅스 커널의 구조와 원리/인터럽트/인터럽트 핸들러.md",
     "Introduction to Algorithms/Graph Algorithms/Maximum Flow/Maximum Flow.md",
@@ -235,7 +235,6 @@
     "임베디드 레시피",
     "좋은 코드, 나쁜 코드/Chapter 8/무제 파일.md",
     "좋은 코드, 나쁜 코드/Chapter 7. 코드를 오용하기 어렵게 만들라.md",
-    "좋은 코드, 나쁜 코드/Chapter 2. 추상화 계층.md",
     "Introduction to Algorithms/Foundations/Getting Started",
     "Introduction to Algorithms/Foundations/The role of algorithms in computing",
     "Introduction to Algorithms/Foundations"
