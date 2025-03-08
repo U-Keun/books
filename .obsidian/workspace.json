@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "디버깅을 통해 배우는 리눅스 커널의 구조와 원리/인터럽트/인터럽트 디스크립터.md",
+                "file": "디버깅을 통해 배우는 리눅스 커널의 구조와 원리/인터럽트/인터럽트 핸들러.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "인터럽트 디스크립터"
+              "title": "인터럽트 핸들러"
             }
           },
           {
@@ -103,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5
+    "width": 271.5,
+    "collapsed": true
   },
   "right": {
     "id": "2545cf5b8a19dcc4",
@@ -192,10 +193,10 @@
   },
   "active": "abad1be0672c57fd",
   "lastOpenFiles": [
-    "디버깅을 통해 배우는 리눅스 커널의 구조와 원리/인터럽트/인터럽트 핸들러.md",
     "디버깅을 통해 배우는 리눅스 커널의 구조와 원리/인터럽트/인터럽트 디스크립터.md",
-    "images/high-rising.png",
     "디버깅을 통해 배우는 리눅스 커널의 구조와 원리/인터럽트/인터럽트 벡터.md",
+    "디버깅을 통해 배우는 리눅스 커널의 구조와 원리/인터럽트/인터럽트 핸들러.md",
+    "images/high-rising.png",
     "Introduction to Algorithms/Graph Algorithms/Maximum Flow/Maximum Flow.md",
     "디버깅을 통해 배우는 리눅스 커널의 구조와 원리/라즈베리 파이와 리눅스 커널.md",
     "디버깅을 통해 배우는 리눅스 커널의 구조와 원리/인터럽트/인터럽트 컨텍스트.md",
