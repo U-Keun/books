@@ -46,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5
+    "width": 271.5,
+    "collapsed": true
   },
   "right": {
     "id": "2545cf5b8a19dcc4",
@@ -190,7 +191,7 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "cfab4d5419190a80",
+  "active": "abad1be0672c57fd",
   "lastOpenFiles": [
     "디버깅을 통해 배우는 리눅스 커널의 구조와 원리/인터럽트/인터럽트 벡터.md",
     "디버깅을 통해 배우는 리눅스 커널의 구조와 원리/인터럽트/인터럽트 핸들러.md",
