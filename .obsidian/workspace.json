@@ -46,15 +46,15 @@
             }
           },
           {
-            "id": "2526114b2a1d0488",
+            "id": "37f08503808aa1b8",
             "type": "leaf",
             "state": {
               "type": "release-notes",
               "state": {
-                "currentVersion": "1.8.9"
+                "currentVersion": "1.8.10"
               },
               "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
+              "title": "Release Notes 1.8.10"
             }
           }
         ],
@@ -178,13 +178,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "디버깅을 통해 배우는 리눅스 커널의 구조와 원리/인터럽트/인터럽트 핸들러.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "인터럽트 핸들러 의 개요"
+              "title": "개요"
             }
           }
         ],
@@ -205,7 +204,7 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "2526114b2a1d0488",
+  "active": "37f08503808aa1b8",
   "lastOpenFiles": [
     "images/Pasted image 20250308195822.png",
     "디버깅을 통해 배우는 리눅스 커널의 구조와 원리/인터럽트/인터럽트 디스크립터.md",
